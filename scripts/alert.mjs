@@ -15,7 +15,7 @@ async function post(url, opts) { try { const r = await fetch(url, opts); if (!r.
 
 async function discord(content) {
   if (!DISCORD_WEBHOOK) return;
-  await post(DISCORD_WEBHOOK, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ content: content.slice(0, 1990), allowed_mentions: { parse: ['everyone'] } }) });
+  await post(DISCORD_WEBHOOK, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ content: content.slice(0, 1990), username: 'Internship Tracker', avatar_url: 'https://raw.githubusercontent.com/bojro/internship-tracker/main/bd.png', allowed_mentions: { parse: ['everyone'] } }) });
 }
 
 if (newWatched.length) {
