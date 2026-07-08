@@ -77,32 +77,33 @@ async function srcSimplify() {
   }));
 }
 async function srcSnd() {
-  // README markdown table parse: | Company | Role | Location | Link | Date |
   const md = await fetchText('https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md');
   const rows = [];
   for (const line of md.split('\n')) {
     const m = line.match(/^\|(.+?)\|(.+?)\|(.+?)\|(.+?)\|(.+?)\|/);
     if (!m) continue;
-    const [company, role, loc, link] = [m[1], m[2], m[3], m[4]].map((s) => s.trim());
+    const [company, role, loc, link, date] = [m[1], m[2], m[3], m[4], m[5]].map((x) => x.trim());
     if (!company || /company|---/i.test(company)) continue;
-    const href = (link.match(/href="([^"]+)"/) || [])[1] || '';
-    rows.push({ company: company.replace(/\*\*|\[|\]|↳/g, '').trim(), title: role, locations: [loc.replace(/<\/?br\/?>/g, ' ; ')], url: href, active: true, posted: null, season: '', source: 'snd' });
+    const href = (link.match(/\((https?:\/\/[^)]+)\)/) || link.match(/href="([^"]+)"/) || [])[1] || '';
+    const ts = Date.parse(date);
+    rows.push({ company: company.replace(/\*\*|\[|\]|↳/g, '').trim(), title: role.replace(/<[^>]+>/g, '').trim(), locations: [loc.replace(/<\/?br\/?>/g, ' ; ')], url: href, active: true, posted: Number.isNaN(ts) ? null : ts, season: '', source: 'snd' });
   }
   return rows;
 }
 
+const agoToTs = (v) => { const m = String(v || '').match(/(\d+)\s*(h|d|w|mo|y)/i); if (!m) return null; const ms = { h: 3600e3, d: 864e5, w: 6048e5, mo: 2592e6, y: 31536e6 }[m[2].toLowerCase()] || 864e5; return Date.now() - Number(m[1]) * ms; };
 async function srcSpeedy() {
   const md = await fetchText('https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md');
   const rows = [];
   for (const line of md.split('\n')) {
-    const m = line.match(/^\|(.+?)\|(.+?)\|(.+?)\|(.+?)\|(.+?)\|/);
-    if (!m) continue;
-    const c = [m[1], m[2], m[3], m[4]].map((x) => x.trim());
-    if (!c[0] || /company|---|:--/i.test(c[0])) continue;
-    const company = (c[0].match(/>([^<]+)</) || [null, c[0]])[1].replace(/\*\*|\[|\]|↳|<[^>]+>/g, '').trim();
-    const href = (c[3].match(/href="([^"]+)"/) || [])[1] || '';
+    if (!line.trim().startsWith('|')) continue;
+    const cols = line.split('|').map((x) => x.trim());   // [0]='' [1]=Company [2]=Position [3]=Location [4]=Salary [5]=Posting [6]=Age
+    if (cols.length < 6) continue;
+    if (!cols[1] || /company|---|:--/i.test(cols[1])) continue;
+    const company = (cols[1].match(/>([^<]+)</) || [null, cols[1]])[1].replace(/\*\*|\[|\]|↳|<[^>]+>/g, '').trim();
     if (!company) continue;
-    rows.push({ company, title: c[1].replace(/<[^>]+>/g, '').trim(), locations: [c[2].replace(/<[^>]+>/g, '').replace(/\+\d+/, '').trim()], url: href, active: true, posted: null, season: '', source: 'speedy' });
+    const href = ((cols[5] || '').match(/href="([^"]+)"/) || [])[1] || '';
+    rows.push({ company, title: (cols[2] || '').replace(/<[^>]+>/g, '').trim(), locations: [(cols[3] || '').replace(/<[^>]+>/g, '').replace(/\+\d+/, '').trim()], url: href, active: true, posted: agoToTs(cols[6] || ''), season: '', source: 'speedy' });
   }
   return rows;
 }
