@@ -16,14 +16,19 @@ const US_STATES = /\b(A[LKZR]|C[AOT]|DE|FL|GA|HI|I[ADLN]|K[SY]|LA|M[ADEINOST]|N[
 const NON_US = /(canada|ontario|toronto|vancouver|london|united kingdom|\buk\b|ireland|dublin|india|bangalore|hyderabad|singapore|australia|germany|munich|amsterdam|zurich|tokyo|remote in (canada|uk|europe|india))/i;
 
 function isUS(locs) {
-  const j = (Array.isArray(locs) ? locs.join(' ; ') : String(locs || ''));
-  if (NON_US.test(j)) return false;
-  if (/\b(remote in usa|us remote|united states|usa)\b/i.test(j)) return true;
-  return US_STATES.test(j) || j.trim() === '' /* unknown -> keep, filter later */;
+  const parts = (Array.isArray(locs) ? locs : [String(locs || '')])
+    .flatMap((l) => String(l).split(/;|\||\/|\band\b/i)).map((x) => x.trim()).filter(Boolean);
+  if (parts.length === 0) return true;                                  // no location -> keep
+  if (parts.some((p) => US_STATES.test(p) || /\b(united states|usa|u\.s\.?|remote us|us remote)\b/i.test(p))) return true; // any US -> keep
+  if (parts.every((p) => NON_US.test(p))) return false;                 // every location clearly foreign -> drop
+  return true;                                                          // remote/unknown/mixed -> keep (can't-miss)
 }
-const isIntern = (t) => /(intern|co-?op)/i.test(t || '');
-const isSWE = (t) => /\b(software|swe\b|sde\b|full[- ]?stack|backend|front[- ]?end|systems|platform|infrastructure)\b/i.test(t || '')
-  && !/\b(hardware|mechanical|electrical|asic|rtl|fpga|chip|silicon|validation engineer|test engineer|manufactur)\b/i.test(t || '');
+const isIntern = (t) => !/\b(new.?grad|full.?time|graduate (program|scheme)|\bsenior\b|\bstaff\b|principal|\bmanager\b|experienced hire)\b/i.test(t || '');
+const isSWE = (t) => {
+  const inc = /(software|swe\b|sde\b|developer|programm|engineer|machine learning|\bml\b|\bai\b|artificial intel|deep learning|\bllm\b|\bnlp\b|computer vision|data (scien|engineer)|research (scien|engineer)|robotics|perception|autonom|quant\w*|full.?stack|back.?end|front.?end|embedded|firmware|infrastructure|platform|systems|cloud|devops|\bsre\b|technical)/i.test(t || '');
+  const exc = /\b(mechanical|electrical|chassis|civil|chemical|thermal|structural|manufactur|industrial engineer|materials|biomedical|\brf\b|analog|pcb|hardware design|drafter|hvac|petroleum|mining|environmental) (engineer|design|intern)/i.test(t || '') && !/software|firmware|embedded/i.test(t || '');
+  return inc && !exc;
+};
 // term filter: keep current+future (Fall 2026 onwards, from now = July 2026). Drops PAST
 // terms (Summer 2026, Spring 2026, etc). Winter = Dec. Date-unknown kept (can't-miss).
 const SEASON_MONTH = { winter: 12, spring: 3, summer: 6, fall: 9, autumn: 9 };
