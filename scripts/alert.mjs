@@ -15,12 +15,12 @@ async function post(url, opts) { try { const r = await fetch(url, opts); if (!r.
 
 async function discord(content) {
   if (!DISCORD_WEBHOOK) return;
-  await post(DISCORD_WEBHOOK, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ content: content.slice(0, 1900) }) });
+  await post(DISCORD_WEBHOOK, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ content: content.slice(0, 1990), allowed_mentions: { parse: ['everyone'] } }) });
 }
 
 if (newWatched.length) {
   const header = `📌 ${newWatched.length} new watched-firm posting${newWatched.length > 1 ? 's' : ''}`;
-  await discord(`**${header}**\n\n` + newWatched.map(line).join('\n\n'));
+  await discord(`@everyone\n**${header}**\n\n` + newWatched.map(line).join('\n\n'));
   writeFileSync('email-subject.txt', `[Internships] ${header}`);
   writeFileSync('email-body.txt', newWatched.map(line).join('\n\n'));
   console.error(`sent ${newWatched.length} alerts`);
