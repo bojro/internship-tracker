@@ -23,7 +23,18 @@ function isUS(locs) {
 }
 const isSWE = (t) => /\b(software|swe\b|sde\b|full[- ]?stack|backend|front[- ]?end|systems|platform|infrastructure)\b/i.test(t || '')
   && !/\b(hardware|mechanical|electrical|asic|rtl|fpga|chip|silicon|validation engineer|test engineer|manufactur)\b/i.test(t || '');
-const is2027 = (s) => /2027/.test(String(s || ''));
+// term filter: keep current+future (Fall 2026 onwards, from now = July 2026). Drops PAST
+// terms (Summer 2026, Spring 2026, etc). Winter = Dec. Date-unknown kept (can't-miss).
+const SEASON_MONTH = { winter: 12, spring: 3, summer: 6, fall: 9, autumn: 9 };
+const NOW_RANK = 2026 * 12 + 7;
+const keepYear = (blob) => {
+  const t = String(blob || '').toLowerCase();
+  const terms = [...t.matchAll(/(winter|spring|summer|fall|autumn)[ -]?(20(?:2[5-9]|3[01]))/g)];
+  if (terms.length) return terms.some((m) => Number(m[2]) * 12 + SEASON_MONTH[m[1]] >= NOW_RANK);
+  const years = (t.match(/20(?:2[5-9]|3[01])/g) || []).map(Number);
+  if (years.length) return Math.max(...years) >= 2026;
+  return true;
+};
 
 // company -> watched entry (or null)
 const ALIAS = new Map();
@@ -52,11 +63,11 @@ async function srcVansh() {
 }
 async function srcSimplify() {
   const d = await fetchJson('https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json');
-  return d.filter((x) => (x.terms || []).some(is2027) && x.is_visible !== false).map((x) => ({
+  return d.filter((x) => (x.terms || []).some((t) => /20\d\d/.test(t) && keepYear(t)) && x.is_visible !== false).map((x) => ({
     company: x.company_name, title: x.title, locations: x.locations || [],
     url: x.url || x.company_url || '', active: x.active !== false,
     posted: x.date_posted ? x.date_posted * 1000 : null,
-    season: (x.terms || []).find(is2027) || '', source: 'simplify',
+    season: (x.terms || []).filter((t) => /20\d\d/.test(t) && keepYear(t)).join(', '), source: 'simplify',
   }));
 }
 async function srcSnd() {
@@ -74,8 +85,24 @@ async function srcSnd() {
   return rows;
 }
 
+async function srcSpeedy() {
+  const md = await fetchText('https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md');
+  const rows = [];
+  for (const line of md.split('\n')) {
+    const m = line.match(/^\|(.+?)\|(.+?)\|(.+?)\|(.+?)\|(.+?)\|/);
+    if (!m) continue;
+    const c = [m[1], m[2], m[3], m[4]].map((x) => x.trim());
+    if (!c[0] || /company|---|:--/i.test(c[0])) continue;
+    const company = (c[0].match(/>([^<]+)</) || [null, c[0]])[1].replace(/\*\*|\[|\]|↳|<[^>]+>/g, '').trim();
+    const href = (c[3].match(/href="([^"]+)"/) || [])[1] || '';
+    if (!company) continue;
+    rows.push({ company, title: c[1].replace(/<[^>]+>/g, '').trim(), locations: [c[2].replace(/<[^>]+>/g, '').replace(/\+\d+/, '').trim()], url: href, active: true, posted: null, season: '', source: 'speedy' });
+  }
+  return rows;
+}
+
 // ---------- run ----------
-const sources = [['vansh', srcVansh], ['simplify', srcSimplify], ['snd', srcSnd]];
+const sources = [['vansh', srcVansh], ['simplify', srcSimplify], ['snd', srcSnd], ['speedy', srcSpeedy]];
 const broken = [];
 let raw = [];
 for (const [name, fn] of sources) {
@@ -84,7 +111,7 @@ for (const [name, fn] of sources) {
 }
 
 // filter -> SWE, 2027-ish (vansh repo is all-2027; simplify pre-filtered; snd is 2027 repo), US
-const filtered = raw.filter((p) => isSWE(p.title) && isUS(p.locations) && p.company);
+const filtered = raw.filter((p) => isSWE(p.title) && isUS(p.locations) && p.company && keepYear(`${p.title} ${p.url} ${p.season}`));
 
 // corroborate: merge by key, count distinct sources, keep freshest url/posted, OR active
 const merged = new Map();
