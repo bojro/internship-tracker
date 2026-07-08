@@ -1,0 +1,388 @@
+{
+ "watched": [
+  {
+   "id": "amazon",
+   "name": "Amazon",
+   "aliases": [
+    "amazon"
+   ]
+  },
+  {
+   "id": "microsoft",
+   "name": "Microsoft",
+   "aliases": [
+    "microsoft"
+   ]
+  },
+  {
+   "id": "cloudflare",
+   "name": "Cloudflare",
+   "aliases": [
+    "cloudflare"
+   ]
+  },
+  {
+   "id": "datadog",
+   "name": "Datadog",
+   "aliases": [
+    "datadog"
+   ]
+  },
+  {
+   "id": "snowflake",
+   "name": "Snowflake",
+   "aliases": [
+    "snowflake"
+   ]
+  },
+  {
+   "id": "meta",
+   "name": "Meta",
+   "aliases": [
+    "facebook",
+    "meta",
+    "meta platforms"
+   ]
+  },
+  {
+   "id": "apple",
+   "name": "Apple",
+   "aliases": [
+    "apple"
+   ]
+  },
+  {
+   "id": "google",
+   "name": "Google",
+   "aliases": [
+    "google"
+   ]
+  },
+  {
+   "id": "google-asdi",
+   "name": "Google ASDI",
+   "aliases": [
+    "google",
+    "google asdi"
+   ]
+  },
+  {
+   "id": "uber",
+   "name": "Uber",
+   "aliases": [
+    "uber"
+   ]
+  },
+  {
+   "id": "roblox",
+   "name": "Roblox",
+   "aliases": [
+    "roblox"
+   ]
+  },
+  {
+   "id": "nvidia",
+   "name": "NVIDIA",
+   "aliases": [
+    "nvidia"
+   ]
+  },
+  {
+   "id": "pinterest",
+   "name": "Pinterest",
+   "aliases": [
+    "pinterest"
+   ]
+  },
+  {
+   "id": "doordash",
+   "name": "DoorDash",
+   "aliases": [
+    "doordash"
+   ]
+  },
+  {
+   "id": "instacart",
+   "name": "Instacart",
+   "aliases": [
+    "instacart"
+   ]
+  },
+  {
+   "id": "coinbase",
+   "name": "Coinbase",
+   "aliases": [
+    "coinbase"
+   ]
+  },
+  {
+   "id": "robinhood",
+   "name": "Robinhood",
+   "aliases": [
+    "robinhood"
+   ]
+  },
+  {
+   "id": "stripe",
+   "name": "Stripe",
+   "aliases": [
+    "stripe"
+   ]
+  },
+  {
+   "id": "databricks",
+   "name": "Databricks",
+   "aliases": [
+    "databricks"
+   ]
+  },
+  {
+   "id": "palantir",
+   "name": "Palantir",
+   "aliases": [
+    "palantir"
+   ]
+  },
+  {
+   "id": "figma",
+   "name": "Figma",
+   "aliases": [
+    "figma"
+   ]
+  },
+  {
+   "id": "notion",
+   "name": "Notion",
+   "aliases": [
+    "notion"
+   ]
+  },
+  {
+   "id": "airbnb",
+   "name": "Airbnb",
+   "aliases": [
+    "airbnb"
+   ]
+  },
+  {
+   "id": "netflix",
+   "name": "Netflix",
+   "aliases": [
+    "netflix"
+   ]
+  },
+  {
+   "id": "ramp",
+   "name": "Ramp",
+   "aliases": [
+    "ramp"
+   ]
+  },
+  {
+   "id": "mercury",
+   "name": "Mercury",
+   "aliases": [
+    "mercury"
+   ]
+  },
+  {
+   "id": "brex",
+   "name": "Brex",
+   "aliases": [
+    "brex"
+   ]
+  },
+  {
+   "id": "anduril",
+   "name": "Anduril",
+   "aliases": [
+    "anduril"
+   ]
+  },
+  {
+   "id": "spacex",
+   "name": "SpaceX",
+   "aliases": [
+    "spacex"
+   ]
+  },
+  {
+   "id": "rtx",
+   "name": "Raytheon",
+   "aliases": [
+    "raytheon"
+   ]
+  },
+  {
+   "id": "lockheed",
+   "name": "Lockheed Martin",
+   "aliases": [
+    "lockheed martin"
+   ]
+  },
+  {
+   "id": "cursor",
+   "name": "Cursor",
+   "aliases": [
+    "cursor"
+   ]
+  },
+  {
+   "id": "vercel",
+   "name": "Vercel",
+   "aliases": [
+    "vercel"
+   ]
+  },
+  {
+   "id": "perplexity",
+   "name": "Perplexity",
+   "aliases": [
+    "perplexity"
+   ]
+  },
+  {
+   "id": "replit",
+   "name": "Replit",
+   "aliases": [
+    "replit"
+   ]
+  },
+  {
+   "id": "scaleai",
+   "name": "Scale AI",
+   "aliases": [
+    "scale ai"
+   ]
+  },
+  {
+   "id": "linear",
+   "name": "Linear",
+   "aliases": [
+    "linear"
+   ]
+  },
+  {
+   "id": "amd",
+   "name": "AMD",
+   "aliases": [
+    "amd"
+   ]
+  },
+  {
+   "id": "intel",
+   "name": "Intel",
+   "aliases": [
+    "intel"
+   ]
+  },
+  {
+   "id": "ti",
+   "name": "Texas Instruments",
+   "aliases": [
+    "texas instruments"
+   ]
+  },
+  {
+   "id": "analog-devices",
+   "name": "Analog Devices",
+   "aliases": [
+    "analog devices"
+   ]
+  },
+  {
+   "id": "broadcom",
+   "name": "Broadcom",
+   "aliases": [
+    "broadcom"
+   ]
+  },
+  {
+   "id": "synopsys",
+   "name": "Synopsys",
+   "aliases": [
+    "synopsys"
+   ]
+  },
+  {
+   "id": "ibm",
+   "name": "IBM",
+   "aliases": [
+    "ibm"
+   ]
+  },
+  {
+   "id": "crowdstrike",
+   "name": "CrowdStrike",
+   "aliases": [
+    "crowdstrike"
+   ]
+  },
+  {
+   "id": "jpmorgan",
+   "name": "JPMorgan Chase",
+   "aliases": [
+    "jp morgan",
+    "jpmorgan chase",
+    "jpmorganchase"
+   ]
+  },
+  {
+   "id": "bofa",
+   "name": "Bank of America",
+   "aliases": [
+    "bank of america"
+   ]
+  },
+  {
+   "id": "state-street",
+   "name": "State Street",
+   "aliases": [
+    "state street"
+   ]
+  },
+  {
+   "id": "liberty-mutual",
+   "name": "Liberty Mutual",
+   "aliases": [
+    "liberty mutual"
+   ]
+  },
+  {
+   "id": "fidelity",
+   "name": "Fidelity",
+   "aliases": [
+    "fidelity"
+   ]
+  }
+ ],
+ "hotlist": [
+  {
+   "id": "imc",
+   "name": "IMC Trading",
+   "aliases": [
+    "imc",
+    "imc trading"
+   ],
+   "note": "apply ~Aug 1-10 after NeetCode"
+  },
+  {
+   "id": "optiver",
+   "name": "Optiver",
+   "aliases": [
+    "optiver"
+   ],
+   "note": "apply ~Aug 1-10 after NeetCode"
+  },
+  {
+   "id": "aquatic",
+   "name": "Aquatic",
+   "aliases": [
+    "aquatic",
+    "aquatic capital",
+    "aquatic capital management"
+   ],
+   "note": "apply ~Aug 1-10 after NeetCode"
+  }
+ ]
+}
