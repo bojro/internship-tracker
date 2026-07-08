@@ -21,6 +21,7 @@ function isUS(locs) {
   if (/\b(remote in usa|us remote|united states|usa)\b/i.test(j)) return true;
   return US_STATES.test(j) || j.trim() === '' /* unknown -> keep, filter later */;
 }
+const isIntern = (t) => /(intern|co-?op)/i.test(t || '');
 const isSWE = (t) => /\b(software|swe\b|sde\b|full[- ]?stack|backend|front[- ]?end|systems|platform|infrastructure)\b/i.test(t || '')
   && !/\b(hardware|mechanical|electrical|asic|rtl|fpga|chip|silicon|validation engineer|test engineer|manufactur)\b/i.test(t || '');
 // term filter: keep current+future (Fall 2026 onwards, from now = July 2026). Drops PAST
@@ -111,7 +112,7 @@ for (const [name, fn] of sources) {
 }
 
 // filter -> SWE, 2027-ish (vansh repo is all-2027; simplify pre-filtered; snd is 2027 repo), US
-const filtered = raw.filter((p) => isSWE(p.title) && isUS(p.locations) && p.company && keepYear(`${p.title} ${p.url} ${p.season}`));
+const filtered = raw.filter((p) => isSWE(p.title) && isIntern(p.title) && isUS(p.locations) && p.company && keepYear(`${p.title} ${p.url} ${p.season}`));
 
 // corroborate: merge by key, count distinct sources, keep freshest url/posted, OR active
 const merged = new Map();
