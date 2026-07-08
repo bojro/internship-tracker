@@ -15,7 +15,6 @@ across sources, and pushes new **watched-firm** SWE-intern postings to Discord +
    (Public = unlimited Actions minutes; private caps at 2000/mo which 30-min polling exceeds.)
 2. **Repo → Settings → Secrets and variables → Actions**, add:
    - `DISCORD_WEBHOOK` — a channel webhook URL (Discord: Server Settings → Integrations → Webhooks → New).
-   - `NTFY_TOPIC` — any hard-to-guess string, e.g. `bojro-interns-x7k2`. Install the **ntfy** iOS app, Subscribe to that exact topic. That's the whole iOS-push setup.
    - `GMAIL_USER` — your gmail address.
    - `GMAIL_APP_PASSWORD` — Google Account → Security → 2-Step Verification → App passwords → generate one for "Mail". (Not your normal password.)
    - `ALERT_EMAIL` — where alerts land (can be the same gmail).

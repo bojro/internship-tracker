@@ -17,10 +17,9 @@ jobs:
         with: { node-version: '20' }
       - name: Poll sources + corroborate
         run: node scripts/poll.mjs
-      - name: Fan out alerts (Discord + ntfy)
+      - name: Fan out alerts (Discord)
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: node scripts/alert.mjs
       - name: Email alert (Gmail SMTP, only if bodies exist)
         if: hashFiles('email-body.txt') != ''
