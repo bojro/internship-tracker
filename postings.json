@@ -1,6 +1,6 @@
 {
- "generatedAt": 1783686285354,
- "count": 575,
+ "generatedAt": 1783696322400,
+ "count": 574,
  "broken": [],
  "postings": [
   {
@@ -206,7 +206,29 @@
    "source": "simplify",
    "key": "pylon::software engineer",
    "sources": [
-    "simplify"
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Jump Trading",
+   "title": "Campus Software Engineer - Intern",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+   "active": true,
+   "posted": 1783609922379,
+   "season": "",
+   "source": "speedy",
+   "key": "jump trading::campus software engineer",
+   "sources": [
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -290,13 +312,14 @@
    "source": "simplify",
    "key": "jump trading::campus ui software engineer",
    "sources": [
-    "simplify"
+    "simplify",
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
+   "sourceCount": 2
   },
   {
    "company": "Jump Trading",
@@ -629,7 +652,7 @@
     "Kansas City, MO"
    ],
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1",
-   "active": true,
+   "active": false,
    "posted": 1783490748000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -749,6 +772,48 @@
    "sourceCount": 1
   },
   {
+   "company": "Jane Street",
+   "title": "Software Engineer Winter Co-Op",
+   "locations": [
+    "New York City, NY"
+   ],
+   "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
+   "active": true,
+   "posted": 1783437122379,
+   "season": "",
+   "source": "speedy",
+   "key": "jane street::software engineer  coop",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Jane Street",
+   "title": "Software Engineer Summer Internship",
+   "locations": [
+    "New York City, NY"
+   ],
+   "url": "https://www.janestreet.com/join-jane-street/position/8599644002",
+   "active": true,
+   "posted": 1783437122379,
+   "season": "",
+   "source": "speedy",
+   "key": "jane street::software engineer",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Stanley Black & Decker",
    "title": "Engineering Co-op",
    "locations": [
@@ -809,48 +874,6 @@
    "firmId": "aquatic",
    "firmName": "Aquatic",
    "hot": true,
-   "sourceCount": 1
-  },
-  {
-   "company": "Jane Street",
-   "title": "Software Engineer Winter Co-Op",
-   "locations": [
-    "New York City, NY"
-   ],
-   "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
-   "active": true,
-   "posted": 1783427085329,
-   "season": "",
-   "source": "speedy",
-   "key": "jane street::software engineer  coop",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Jane Street",
-   "title": "Software Engineer Summer Internship",
-   "locations": [
-    "New York City, NY"
-   ],
-   "url": "https://www.janestreet.com/join-jane-street/position/8599644002",
-   "active": true,
-   "posted": 1783427085329,
-   "season": "",
-   "source": "speedy",
-   "key": "jane street::software engineer",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
    "sourceCount": 1
   },
   {
@@ -1159,7 +1182,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
    "active": true,
-   "posted": 1783340685329,
+   "posted": 1783350722379,
    "season": "Fall",
    "source": "vansh",
    "key": "nvidia::performance engineer  systems software",
@@ -1610,7 +1633,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
    "active": true,
-   "posted": 1782995085329,
+   "posted": 1783005122379,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    austin",
@@ -1631,7 +1654,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "active": true,
-   "posted": 1782995085329,
+   "posted": 1783005122379,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    chicago",
@@ -3010,7 +3033,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7654431844394322229",
    "active": true,
-   "posted": 1782303885329,
+   "posted": 1782313922379,
    "season": "",
    "source": "speedy",
    "key": "tiktok::frontend software engineer project  global crm  startbsms",
@@ -5508,31 +5531,10 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c",
    "active": true,
-   "posted": 1780575885329,
+   "posted": 1780585922379,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  applications",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Rivian",
-   "title": "Software Engineering Intern - Connected Systems - Fall 2026",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92",
-   "active": true,
-   "posted": 1780575885329,
-   "season": "",
-   "source": "speedy",
-   "key": "rivian::software engineering  connected systems",
    "sources": [
     "speedy"
    ],
@@ -5550,10 +5552,31 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
    "active": true,
-   "posted": 1780575885329,
+   "posted": 1780585922379,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  vehicle controls",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Rivian",
+   "title": "Software Engineering Intern - Connected Systems - Fall 2026",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92",
+   "active": true,
+   "posted": 1780585922379,
+   "season": "",
+   "source": "speedy",
+   "key": "rivian::software engineering  connected systems",
    "sources": [
     "speedy"
    ],
@@ -5592,7 +5615,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
    "active": true,
-   "posted": 1780489485329,
+   "posted": 1780499522379,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  embedded platforms",
@@ -5634,7 +5657,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
    "active": true,
-   "posted": 1780403085329,
+   "posted": 1780413122379,
    "season": "",
    "source": "speedy",
    "key": "nvidia::dgx cloud kubernetes runtime",
@@ -7080,7 +7103,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7637047421538404613",
    "active": true,
-   "posted": 1778243085329,
+   "posted": 1778253122379,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  quality and efficiency technology   bsms",
@@ -7444,7 +7467,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5894",
    "active": true,
-   "posted": 1777465485329,
+   "posted": 1777475522379,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer  new york",
@@ -7593,7 +7616,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
    "active": true,
-   "posted": 1777033485329,
+   "posted": 1777043522379,
    "season": "Fall",
    "source": "vansh",
    "key": "nvidia::software engineering  jax",
@@ -7785,11 +7808,11 @@
    "company": "Amazon",
    "title": "Software Development Engineer Intern - AWS Data Services - Fall 2026 - US",
    "locations": [
-    "Seattle, Washington, USA"
+    "Seattle, WA"
    ],
    "url": "https://www.amazon.jobs/jobs/10412530/apply",
    "active": true,
-   "posted": 1776860685329,
+   "posted": 1776870722379,
    "season": "",
    "source": "speedy",
    "key": "amazon::software development engineer  aws data services   us",
@@ -8298,7 +8321,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7629500062003218741",
    "active": true,
-   "posted": 1776428685329,
+   "posted": 1776438722379,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  recommendation infrastructure tiktok video social  start bsms",
@@ -8431,7 +8454,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7624284785283746053",
    "active": true,
-   "posted": 1775219085329,
+   "posted": 1775229122379,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  model infrastructure  start bsms",
@@ -11234,48 +11257,6 @@
    "sourceCount": 1
   },
   {
-   "company": "TD Bank",
-   "title": "2026 Fall Co-op - Global Technology Solutions - Software Engineer - SWE",
-   "locations": [
-    "Mount Laurel, New Jersey"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "td bank::coop global technology solutions software engineer swe",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TD Bank",
-   "title": "2026 Fall Co-op - Global Technology Solutions - Data Engineer",
-   "locations": [
-    "Mount Laurel, New Jersey"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "td bank::coop global technology solutions data engineer",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Generac",
    "title": "Intern Firmware Engineering",
    "locations": [
@@ -11382,7 +11363,7 @@
   },
   {
    "company": "Blue Origin",
-   "title": "Spring 2027 Avionics Software Internship - Undergraduate",
+   "title": "Spring 2027 Avionics Software Internship - Graduate",
    "locations": [
     "Seattle, WA"
    ],
@@ -11391,7 +11372,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "blue origin::avionics software  undergraduate",
+   "key": "blue origin::avionics software  graduate",
    "sources": [
     "speedy"
    ],
@@ -11424,7 +11405,7 @@
   },
   {
    "company": "Blue Origin",
-   "title": "Spring 2027 Avionics Software Internship - Graduate",
+   "title": "Spring 2027 Avionics Software Internship - Undergraduate",
    "locations": [
     "Seattle, WA"
    ],
@@ -11433,7 +11414,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "blue origin::avionics software  graduate",
+   "key": "blue origin::avionics software  undergraduate",
    "sources": [
     "speedy"
    ],
@@ -11739,7 +11720,7 @@
   },
   {
    "company": "Plus",
-   "title": "Software Engineer Intern - Robotics",
+   "title": "Software Engineer Intern- Runtime - Robotics",
    "locations": [
     "Santa Clara, CA"
    ],
@@ -11748,7 +11729,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "plus::software engineer  robotics",
+   "key": "plus::software engineer  runtime robotics",
    "sources": [
     "speedy"
    ],
@@ -11760,7 +11741,7 @@
   },
   {
    "company": "Plus",
-   "title": "Software Engineer Intern- Runtime - Robotics",
+   "title": "Software Engineer Intern - Robotics",
    "locations": [
     "Santa Clara, CA"
    ],
@@ -11769,7 +11750,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "plus::software engineer  runtime robotics",
+   "key": "plus::software engineer  robotics",
    "sources": [
     "speedy"
    ],
@@ -11823,7 +11804,7 @@
   },
   {
    "company": "Plus",
-   "title": "Software Engineer Intern - Data",
+   "title": "Full Stack Engineer Intern",
    "locations": [
     "Santa Clara, CA"
    ],
@@ -11832,7 +11813,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "plus::software engineer  data",
+   "key": "plus::full stack engineer",
    "sources": [
     "speedy"
    ],
@@ -11844,7 +11825,7 @@
   },
   {
    "company": "Plus",
-   "title": "Full Stack Engineer Intern",
+   "title": "Software Engineer Intern - Data",
    "locations": [
     "Santa Clara, CA"
    ],
@@ -11853,7 +11834,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "plus::full stack engineer",
+   "key": "plus::software engineer  data",
    "sources": [
     "speedy"
    ],
@@ -12096,16 +12077,16 @@
   },
   {
    "company": "Hermeus",
-   "title": "Software Engineering Intern - HIL - Fall 2026",
+   "title": "Software Engineering Intern - Modeling & Simulation - Fall 2026",
    "locations": [
-    "Atlanta, GA"
+    "Los Angeles, CA"
    ],
    "url": "",
    "active": true,
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "hermeus::software engineering  hil",
+   "key": "hermeus::software engineering  modeling simulation",
    "sources": [
     "speedy"
    ],
@@ -12117,16 +12098,16 @@
   },
   {
    "company": "Hermeus",
-   "title": "Software Engineering Intern - Modeling & Simulation - Fall 2026",
+   "title": "Software Engineering Intern - HIL - Fall 2026",
    "locations": [
-    "Los Angeles, CA"
+    "Atlanta, GA"
    ],
    "url": "",
    "active": true,
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "hermeus::software engineering  modeling simulation",
+   "key": "hermeus::software engineering  hil",
    "sources": [
     "speedy"
    ],
