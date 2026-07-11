@@ -1,5 +1,5 @@
 {
- "generatedAt": 1783726122751,
+ "generatedAt": 1783731628282,
  "count": 579,
  "broken": [],
  "postings": [
@@ -80,6 +80,27 @@
    "key": "tesla::software engineer  energy engineering",
    "sources": [
     "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Jump Trading",
+   "title": "Campus Software Engineer - Intern",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+   "active": true,
+   "posted": 1783645228260,
+   "season": "",
+   "source": "speedy",
+   "key": "jump trading::campus software engineer",
+   "sources": [
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -178,7 +199,7 @@
     "San Diego, CA"
    ],
    "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205-1",
-   "active": true,
+   "active": false,
    "posted": 1783641600000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -199,7 +220,7 @@
     "San Diego, CA"
    ],
    "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/San-Diego-CA-United-States/Engineering-Intern_REQ-12205",
-   "active": true,
+   "active": false,
    "posted": 1783641600000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -269,27 +290,6 @@
    "key": "arrowstreet capital::quantitative researcher",
    "sources": [
     "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Jump Trading",
-   "title": "Campus Software Engineer - Intern",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-   "active": true,
-   "posted": 1783639722714,
-   "season": "",
-   "source": "speedy",
-   "key": "jump trading::campus software engineer",
-   "sources": [
-    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -842,7 +842,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
    "active": true,
-   "posted": 1783466922714,
+   "posted": 1783472428260,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer  coop",
@@ -863,7 +863,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8599644002",
    "active": true,
-   "posted": 1783466922714,
+   "posted": 1783472428260,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer",
@@ -1717,7 +1717,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
    "active": true,
-   "posted": 1783034922714,
+   "posted": 1783040428260,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    austin",
@@ -1738,7 +1738,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "active": true,
-   "posted": 1783034922714,
+   "posted": 1783040428260,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    chicago",
@@ -3180,7 +3180,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7654431844394322229",
    "active": true,
-   "posted": 1782343722714,
+   "posted": 1782349228260,
    "season": "",
    "source": "speedy",
    "key": "tiktok::frontend software engineer project  global crm  startbsms",
@@ -5678,7 +5678,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c",
    "active": true,
-   "posted": 1780615722714,
+   "posted": 1780621228260,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  applications",
@@ -5699,7 +5699,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
    "active": true,
-   "posted": 1780615722714,
+   "posted": 1780621228260,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  vehicle controls",
@@ -5720,7 +5720,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92",
    "active": true,
-   "posted": 1780615722714,
+   "posted": 1780621228260,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  connected systems",
@@ -5755,6 +5755,27 @@
    "sourceCount": 1
   },
   {
+   "company": "Rivian",
+   "title": "Software Engineering Intern - Embedded Platforms - Fall 2026",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
+   "active": true,
+   "posted": 1780534828260,
+   "season": "",
+   "source": "speedy",
+   "key": "rivian::software engineering  embedded platforms",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "TSMC Arizona",
    "title": "Engineering Intern (12 roles: process, equipment, CIM / software)",
    "locations": [
@@ -5776,27 +5797,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Rivian",
-   "title": "Software Engineering Intern - Embedded Platforms - Fall 2026",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
-   "active": true,
-   "posted": 1780529322714,
-   "season": "",
-   "source": "speedy",
-   "key": "rivian::software engineering  embedded platforms",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "NVIDIA",
    "title": "DGX Cloud Kubernetes Runtime Intern - Fall 2026",
    "locations": [
@@ -5804,7 +5804,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
    "active": true,
-   "posted": 1780442922714,
+   "posted": 1780448428260,
    "season": "",
    "source": "speedy",
    "key": "nvidia::dgx cloud kubernetes runtime",
@@ -7118,7 +7118,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7637047421538404613",
    "active": true,
-   "posted": 1778282922714,
+   "posted": 1778288428260,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  quality and efficiency technology   bsms",
@@ -7549,7 +7549,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5894",
    "active": true,
-   "posted": 1777505322714,
+   "posted": 1777510828260,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer  new york",
@@ -7677,7 +7677,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
    "active": true,
-   "posted": 1777073322714,
+   "posted": 1777078828260,
    "season": "Fall",
    "source": "vansh",
    "key": "nvidia::software engineering  jax",
@@ -7828,7 +7828,7 @@
    ],
    "url": "https://www.amazon.jobs/jobs/10412530/apply",
    "active": true,
-   "posted": 1776900522714,
+   "posted": 1776906028260,
    "season": "",
    "source": "speedy",
    "key": "amazon::software development engineer  aws data services   us",
@@ -8383,7 +8383,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7629500062003218741",
    "active": true,
-   "posted": 1776468522714,
+   "posted": 1776474028260,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  recommendation infrastructure tiktok video social  start bsms",
@@ -8558,7 +8558,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7624284785283746053",
    "active": true,
-   "posted": 1775258922714,
+   "posted": 1775264428260,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  model infrastructure  start bsms",
