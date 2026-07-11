@@ -1,6 +1,6 @@
 {
- "generatedAt": 1783744861255,
- "count": 580,
+ "generatedAt": 1783753850355,
+ "count": 576,
  "broken": [],
  "postings": [
   {
@@ -74,7 +74,7 @@
    ],
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
    "active": true,
-   "posted": 1783658461233,
+   "posted": 1783667450331,
    "season": "",
    "source": "speedy",
    "key": "jump trading::campus software engineer",
@@ -241,7 +241,7 @@
     "North Carolina"
    ],
    "url": "https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Fall-2026_JR-15842",
-   "active": true,
+   "active": false,
    "posted": 1783641600000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -717,7 +717,7 @@
     "Golden, CO"
    ],
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
-   "active": true,
+   "active": false,
    "posted": 1783548990000,
    "season": "Winter 2026, Fall 2026",
    "source": "simplify",
@@ -838,27 +838,6 @@
    "sourceCount": 1
   },
   {
-   "company": "GE Healthcare",
-   "title": "Field Service Engineer Apprentice",
-   "locations": [
-    "Kansas City, MO"
-   ],
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1",
-   "active": false,
-   "posted": 1783490748000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "ge healthcare::field service engineer apprentice",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Jane Street",
    "title": "Software Engineer Winter Co-Op",
    "locations": [
@@ -866,7 +845,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
    "active": true,
-   "posted": 1783485661233,
+   "posted": 1783494650331,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer  coop",
@@ -887,12 +866,33 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8599644002",
    "active": true,
-   "posted": 1783485661233,
+   "posted": 1783494650331,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer",
    "sources": [
     "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "GE Healthcare",
+   "title": "Field Service Engineer Apprentice",
+   "locations": [
+    "Kansas City, MO"
+   ],
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1",
+   "active": false,
+   "posted": 1783490748000,
+   "season": "Fall 2026",
+   "source": "simplify",
+   "key": "ge healthcare::field service engineer apprentice",
+   "sources": [
+    "simplify"
    ],
    "watched": false,
    "firmId": null,
@@ -1628,27 +1628,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Arlington County VA",
-   "title": "Utility Engineering Intern",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
-   "active": true,
-   "posted": 1783058679000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "arlington county va::utility engineering",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Optiver",
    "title": "Software Engineer Intern - Summer 2027 - Austin",
    "locations": [
@@ -1656,7 +1635,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
    "active": true,
-   "posted": 1783053661233,
+   "posted": 1783062650331,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    austin",
@@ -1677,7 +1656,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "active": true,
-   "posted": 1783053661233,
+   "posted": 1783062650331,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    chicago",
@@ -1688,6 +1667,27 @@
    "firmId": "optiver",
    "firmName": "Optiver",
    "hot": true,
+   "sourceCount": 1
+  },
+  {
+   "company": "Arlington County VA",
+   "title": "Utility Engineering Intern",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
+   "active": true,
+   "posted": 1783058679000,
+   "season": "Fall 2026",
+   "source": "simplify",
+   "key": "arlington county va::utility engineering",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
    "sourceCount": 1
   },
   {
@@ -1932,7 +1932,7 @@
     "Santa Clara, CA"
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
-   "active": true,
+   "active": false,
    "posted": 1782957556000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -2207,7 +2207,7 @@
     "San Jose, CA"
    ],
    "url": "https://job-boards.greenhouse.io/didi/jobs/8042470",
-   "active": false,
+   "active": true,
    "posted": 1782943840000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -3183,7 +3183,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7654431844394322229",
    "active": true,
-   "posted": 1782362461233,
+   "posted": 1782371450331,
    "season": "",
    "source": "speedy",
    "key": "tiktok::frontend software engineer project  global crm  startbsms",
@@ -5702,7 +5702,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c",
    "active": true,
-   "posted": 1780634461233,
+   "posted": 1780643450331,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  applications",
@@ -5723,7 +5723,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
    "active": true,
-   "posted": 1780634461233,
+   "posted": 1780643450331,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  vehicle controls",
@@ -5744,7 +5744,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92",
    "active": true,
-   "posted": 1780634461233,
+   "posted": 1780643450331,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  connected systems",
@@ -5786,7 +5786,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
    "active": true,
-   "posted": 1780548061233,
+   "posted": 1780557050331,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  embedded platforms",
@@ -5828,7 +5828,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
    "active": true,
-   "posted": 1780461661233,
+   "posted": 1780470650331,
    "season": "",
    "source": "speedy",
    "key": "nvidia::dgx cloud kubernetes runtime",
@@ -5967,27 +5967,6 @@
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "NVIDIA",
-   "title": "PhD Software Engineer Intern - Decision Intelligence",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-   "active": true,
-   "posted": 1779528687000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "nvidia::phd software engineer  decision intelligence",
-   "sources": [
-    "simplify"
-   ],
-   "watched": true,
-   "firmId": "nvidia",
-   "firmName": "NVIDIA",
-   "hot": false,
    "sourceCount": 1
   },
   {
@@ -7142,7 +7121,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7637047421538404613",
    "active": true,
-   "posted": 1778301661233,
+   "posted": 1778310650331,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  quality and efficiency technology   bsms",
@@ -7263,27 +7242,6 @@
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "NVIDIA",
-   "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
-   "active": true,
-   "posted": 1778134088000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "nvidia::applied deep learning phd research  reinforcement learning for llms",
-   "sources": [
-    "simplify"
-   ],
-   "watched": true,
-   "firmId": "nvidia",
-   "firmName": "NVIDIA",
-   "hot": false,
    "sourceCount": 1
   },
   {
@@ -7573,7 +7531,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5894",
    "active": true,
-   "posted": 1777524061233,
+   "posted": 1777533050331,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer  new york",
@@ -7808,7 +7766,7 @@
    ],
    "url": "https://www.amazon.jobs/jobs/10412530/apply",
    "active": true,
-   "posted": 1776919261233,
+   "posted": 1776928250331,
    "season": "",
    "source": "speedy",
    "key": "amazon::software development engineer  aws data services   us",
@@ -7858,27 +7816,6 @@
    "key": "etherfi::gtm engineer",
    "sources": [
     "vansh"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Regal Rexnord",
-   "title": "Application Engineering Co-Op",
-   "locations": [
-    "Fort Wayne, IN"
-   ],
-   "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Summer-_R26_01164",
-   "active": true,
-   "posted": 1776895676000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "regal rexnord::application engineering coop",
-   "sources": [
-    "simplify"
    ],
    "watched": false,
    "firmId": null,
@@ -8407,7 +8344,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7629500062003218741",
    "active": true,
-   "posted": 1776487261233,
+   "posted": 1776496250331,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  recommendation infrastructure tiktok video social  start bsms",
@@ -8582,7 +8519,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7624284785283746053",
    "active": true,
-   "posted": 1775277661233,
+   "posted": 1775286650331,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  model infrastructure  start bsms",
@@ -9098,27 +9035,6 @@
    "season": "Winter 2027, Spring 2027, Summer 2027, Fall 2027",
    "source": "simplify",
    "key": "marmon holdings::data engineering coop",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "PennState University",
-   "title": "Research and Development Engineering Intern",
-   "locations": [
-    "State College, PA"
-   ],
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1",
-   "active": true,
-   "posted": 1772579002000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "pennstate university::research and development engineering",
    "sources": [
     "simplify"
    ],
