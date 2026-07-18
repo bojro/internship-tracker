@@ -1,6 +1,6 @@
 {
- "generatedAt": 1784383005307,
- "count": 645,
+ "generatedAt": 1784386653680,
+ "count": 644,
  "broken": [],
  "postings": [
   {
@@ -10,7 +10,7 @@
     "Remote in USA"
    ],
    "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true",
-   "active": false,
+   "active": true,
    "posted": 1784326261000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -601,6 +601,48 @@
    "sourceCount": 1
   },
   {
+   "company": "Citadel",
+   "title": "Software Engineer - Intern - US",
+   "locations": [
+    "Houston, TX"
+   ],
+   "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+   "active": true,
+   "posted": 1784127453658,
+   "season": "",
+   "source": "speedy",
+   "key": "citadel::software engineer  us",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Citadel Securities",
+   "title": "Software Engineer - Intern - US",
+   "locations": [
+    "Miami, FL"
+   ],
+   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+   "active": true,
+   "posted": 1784127453658,
+   "season": "",
+   "source": "speedy",
+   "key": "citadel securities::software engineer  us",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Constellation Space",
    "title": "Graduate Researcher Intern - Machine Learning",
    "locations": [
@@ -656,48 +698,6 @@
    "key": "rainmaker::software engineer",
    "sources": [
     "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Citadel",
-   "title": "Software Engineer - Intern - US",
-   "locations": [
-    "Houston, TX"
-   ],
-   "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-   "active": true,
-   "posted": 1784123805278,
-   "season": "",
-   "source": "speedy",
-   "key": "citadel::software engineer  us",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Citadel Securities",
-   "title": "Software Engineer - Intern - US",
-   "locations": [
-    "Miami, FL"
-   ],
-   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
-   "active": true,
-   "posted": 1784123805278,
-   "season": "",
-   "source": "speedy",
-   "key": "citadel securities::software engineer  us",
-   "sources": [
-    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -1198,7 +1198,7 @@
    ],
    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
    "active": true,
-   "posted": 1784037405278,
+   "posted": 1784041053658,
    "season": "",
    "source": "speedy",
    "key": "akuna capital::software engineer  python",
@@ -1219,7 +1219,7 @@
    ],
    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
    "active": true,
-   "posted": 1784037405278,
+   "posted": 1784041053658,
    "season": "",
    "source": "speedy",
    "key": "akuna capital::software engineer  c",
@@ -1240,7 +1240,7 @@
    ],
    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
    "active": true,
-   "posted": 1784037405278,
+   "posted": 1784041053658,
    "season": "",
    "source": "speedy",
    "key": "akuna capital::software engineer  full stack web",
@@ -1261,7 +1261,7 @@
    ],
    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
    "active": true,
-   "posted": 1784037405278,
+   "posted": 1784041053658,
    "season": "",
    "source": "speedy",
    "key": "akuna capital::software engineer  c net desktop",
@@ -2113,6 +2113,27 @@
    "sourceCount": 2
   },
   {
+   "company": "Jump Trading",
+   "title": "Campus Software Engineer - Intern",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+   "active": true,
+   "posted": 1783609053658,
+   "season": "",
+   "source": "speedy",
+   "key": "jump trading::campus software engineer",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Uber Freight",
    "title": "Data Scientist Intern",
    "locations": [
@@ -2131,27 +2152,6 @@
    "firmId": "uber",
    "firmName": "Uber",
    "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "Jump Trading",
-   "title": "Campus Software Engineer - Intern",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-   "active": true,
-   "posted": 1783605405278,
-   "season": "",
-   "source": "speedy",
-   "key": "jump trading::campus software engineer",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
    "sourceCount": 1
   },
   {
@@ -2777,27 +2777,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Stanley Black & Decker",
-   "title": "Engineering Co-op",
-   "locations": [
-    "Strongsville, OH"
-   ],
-   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering--Co-Op_REQ-1000043149",
-   "active": false,
-   "posted": 1783433437000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "stanley black decker::engineering coop",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Jane Street",
    "title": "Software Engineer Summer Internship",
    "locations": [
@@ -2805,7 +2784,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8599644002",
    "active": true,
-   "posted": 1783432605278,
+   "posted": 1783436253658,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer",
@@ -2826,12 +2805,33 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
    "active": true,
-   "posted": 1783432605278,
+   "posted": 1783436253658,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer  coop",
    "sources": [
     "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "title": "Engineering Co-op",
+   "locations": [
+    "Strongsville, OH"
+   ],
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering--Co-Op_REQ-1000043149",
+   "active": false,
+   "posted": 1783433437000,
+   "season": "Fall 2026",
+   "source": "simplify",
+   "key": "stanley black decker::engineering coop",
+   "sources": [
+    "simplify"
    ],
    "watched": false,
    "firmId": null,
@@ -3187,7 +3187,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
    "active": true,
-   "posted": 1783346205278,
+   "posted": 1783349853658,
    "season": "Fall",
    "source": "vansh",
    "key": "nvidia::performance engineer  systems software",
@@ -3638,7 +3638,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
    "active": true,
-   "posted": 1783000605278,
+   "posted": 1783004253658,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    austin",
@@ -3659,7 +3659,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "active": true,
-   "posted": 1783000605278,
+   "posted": 1783004253658,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    chicago",
@@ -5354,6 +5354,27 @@
    "sourceCount": 1
   },
   {
+   "company": "TikTok",
+   "title": "Frontend Software Engineer Project Intern - Global CRM - 2026 Start（BS/MS）",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7654431844394322229",
+   "active": true,
+   "posted": 1782226653658,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::frontend software engineer project  global crm  startbsms",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Cirrus Logic",
    "title": "Embedded Software AI Intern Co-op",
    "locations": [
@@ -5388,27 +5409,6 @@
    "key": "american heart association::data science",
    "sources": [
     "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Frontend Software Engineer Project Intern - Global CRM - 2026 Start（BS/MS）",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7654431844394322229",
-   "active": true,
-   "posted": 1782223005278,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::frontend software engineer project  global crm  startbsms",
-   "sources": [
-    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -7368,7 +7368,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c",
    "active": true,
-   "posted": 1780581405278,
+   "posted": 1780585053658,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  applications",
@@ -7389,7 +7389,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92",
    "active": true,
-   "posted": 1780581405278,
+   "posted": 1780585053658,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  connected systems",
@@ -7410,7 +7410,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
    "active": true,
-   "posted": 1780581405278,
+   "posted": 1780585053658,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  vehicle controls",
@@ -7452,7 +7452,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
    "active": true,
-   "posted": 1780495005278,
+   "posted": 1780498653658,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  embedded platforms",
@@ -7494,7 +7494,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
    "active": true,
-   "posted": 1780408605278,
+   "posted": 1780412253658,
    "season": "",
    "source": "speedy",
    "key": "nvidia::dgx cloud kubernetes runtime",
@@ -7793,7 +7793,7 @@
    ],
    "url": "https://jobs.apple.com/en-us/details/200664320-3810",
    "active": true,
-   "posted": 1779458205278,
+   "posted": 1779461853658,
    "season": "",
    "source": "speedy",
    "key": "apple::software engineering masters s",
@@ -7814,7 +7814,7 @@
    ],
    "url": "https://jobs.apple.com/en-us/details/200664785-3810",
    "active": true,
-   "posted": 1779458205278,
+   "posted": 1779461853658,
    "season": "",
    "source": "speedy",
    "key": "apple::software undergrad engineering s",
@@ -8724,7 +8724,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7637047421538404613",
    "active": true,
-   "posted": 1778162205278,
+   "posted": 1778165853658,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  quality and efficiency technology   bsms",
@@ -9006,7 +9006,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5894",
    "active": true,
-   "posted": 1777471005278,
+   "posted": 1777474653658,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer  new york",
@@ -9413,7 +9413,7 @@
    ],
    "url": "https://www.amazon.jobs/jobs/10412530/apply",
    "active": true,
-   "posted": 1776866205278,
+   "posted": 1776869853658,
    "season": "",
    "source": "speedy",
    "key": "amazon::software development engineer  aws data services   us",
@@ -9943,7 +9943,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7629500062003218741",
    "active": true,
-   "posted": 1776434205278,
+   "posted": 1776437853658,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  recommendation infrastructure tiktok video social  start bsms",
@@ -10097,7 +10097,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7624284785283746053",
    "active": true,
-   "posted": 1775224605278,
+   "posted": 1775228253658,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  model infrastructure  start bsms",
@@ -10340,27 +10340,6 @@
    "season": "Winter 2026, Fall 2026",
    "source": "simplify",
    "key": "uncountable::fullstack",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Varda Space",
-   "title": "Mission Software – Intern - Python",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003",
-   "active": true,
-   "posted": 1774316508000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "varda space::mission software  python",
    "sources": [
     "simplify"
    ],
