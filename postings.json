@@ -1,5 +1,5 @@
 {
- "generatedAt": 1785045948342,
+ "generatedAt": 1785056186644,
  "count": 780,
  "broken": [],
  "postings": [
@@ -1392,7 +1392,7 @@
    ],
    "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
    "active": true,
-   "posted": 1784700348311,
+   "posted": 1784710586607,
    "season": "",
    "source": "speedy",
    "key": "google::software engineering  ms",
@@ -1608,7 +1608,7 @@
     "SF"
    ],
    "url": "https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
-   "active": true,
+   "active": false,
    "posted": 1784596702000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -3143,27 +3143,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Cybernetic Labs",
-   "title": "Software Engineer Intern - Agent Platform",
-   "locations": [
-    "SF"
-   ],
-   "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true",
-   "active": true,
-   "posted": 1784182200000,
-   "season": "Winter 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027",
-   "source": "simplify",
-   "key": "cybernetic labs::software engineer  agent platform",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Citadel",
    "title": "Software Engineer - Intern - US",
    "locations": [
@@ -3171,7 +3150,7 @@
    ],
    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
    "active": true,
-   "posted": 1784181948311,
+   "posted": 1784192186607,
    "season": "",
    "source": "speedy",
    "key": "citadel::software engineer  us",
@@ -3192,12 +3171,33 @@
    ],
    "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
    "active": true,
-   "posted": 1784181948311,
+   "posted": 1784192186607,
    "season": "",
    "source": "speedy",
    "key": "citadel securities::software engineer  us",
    "sources": [
     "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Cybernetic Labs",
+   "title": "Software Engineer Intern - Agent Platform",
+   "locations": [
+    "SF"
+   ],
+   "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true",
+   "active": true,
+   "posted": 1784182200000,
+   "season": "Winter 2026, Fall 2026, Winter 2027, Spring 2027, Summer 2027",
+   "source": "simplify",
+   "key": "cybernetic labs::software engineer  agent platform",
+   "sources": [
+    "simplify"
    ],
    "watched": false,
    "firmId": null,
@@ -3612,27 +3612,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Cloudflare",
-   "title": "Software Engineer Intern",
-   "locations": [
-    "Austin, TX"
-   ],
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
-   "active": true,
-   "posted": 1784097228000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "cloudflare::software engineer",
-   "sources": [
-    "simplify"
-   ],
-   "watched": true,
-   "firmId": "cloudflare",
-   "firmName": "Cloudflare",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
    "company": "Akuna Capital",
    "title": "Software Engineer Intern, C++",
    "locations": [
@@ -3640,7 +3619,7 @@
    ],
    "url": "https://akunacapital.com/careers/job/8018847/?gh_jid=8018847",
    "active": true,
-   "posted": 1784095548311,
+   "posted": 1784105786607,
    "season": "Summer",
    "source": "vansh",
    "key": "akuna capital::software engineer  c",
@@ -3662,7 +3641,7 @@
    ],
    "url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
    "active": true,
-   "posted": 1784095548311,
+   "posted": 1784105786607,
    "season": "Summer",
    "source": "vansh",
    "key": "akuna capital::software engineer  full stack web",
@@ -3684,7 +3663,7 @@
    ],
    "url": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886",
    "active": true,
-   "posted": 1784095548311,
+   "posted": 1784105786607,
    "season": "Summer",
    "source": "vansh",
    "key": "akuna capital::software engineer  c net desktop",
@@ -3706,7 +3685,7 @@
    ],
    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
    "active": true,
-   "posted": 1784095548311,
+   "posted": 1784105786607,
    "season": "",
    "source": "speedy",
    "key": "akuna capital::software engineer  python",
@@ -3717,6 +3696,27 @@
    "firmId": null,
    "firmName": null,
    "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Cloudflare",
+   "title": "Software Engineer Intern",
+   "locations": [
+    "Austin, TX"
+   ],
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
+   "active": true,
+   "posted": 1784097228000,
+   "season": "Fall 2026",
+   "source": "simplify",
+   "key": "cloudflare::software engineer",
+   "sources": [
+    "simplify"
+   ],
+   "watched": true,
+   "firmId": "cloudflare",
+   "firmName": "Cloudflare",
+   "hot": false,
    "sourceCount": 1
   },
   {
@@ -4774,7 +4774,7 @@
    ],
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
    "active": true,
-   "posted": 1783663548311,
+   "posted": 1783673786607,
    "season": "",
    "source": "speedy",
    "key": "jump trading::campus software engineer",
@@ -5589,7 +5589,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
    "active": true,
-   "posted": 1783490748311,
+   "posted": 1783500986607,
    "season": "Spring",
    "source": "vansh",
    "key": "jane street::software engineer",
@@ -5611,7 +5611,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
    "active": true,
-   "posted": 1783490748311,
+   "posted": 1783500986607,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer  coop",
@@ -6466,7 +6466,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "active": true,
-   "posted": 1783058748311,
+   "posted": 1783068986607,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    chicago",
@@ -6487,7 +6487,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
    "active": true,
-   "posted": 1783058748311,
+   "posted": 1783068986607,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    austin",
@@ -8021,7 +8021,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667",
    "active": true,
-   "posted": 1782367548311,
+   "posted": 1782377786607,
    "season": "Fall 2026",
    "source": "simplify",
    "key": "nvidia::phd research  system software and io architecture",
@@ -8064,7 +8064,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7654431844394322229",
    "active": true,
-   "posted": 1782281148311,
+   "posted": 1782291386607,
    "season": "",
    "source": "speedy",
    "key": "tiktok::frontend software engineer project  global crm  startbsms",
@@ -10030,7 +10030,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92",
    "active": true,
-   "posted": 1780639548311,
+   "posted": 1780649786607,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  connected systems",
@@ -10051,7 +10051,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd",
    "active": true,
-   "posted": 1780639548311,
+   "posted": 1780649786607,
    "season": "",
    "source": "speedy",
    "key": "rivian::android developer",
@@ -10072,7 +10072,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c",
    "active": true,
-   "posted": 1780639548311,
+   "posted": 1780649786607,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  applications",
@@ -10093,7 +10093,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/89feb2fe-c28c-4dad-846f-09594632ba55",
    "active": true,
-   "posted": 1780639548311,
+   "posted": 1780649786607,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  vehicle controls",
@@ -10135,7 +10135,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
    "active": true,
-   "posted": 1780553148311,
+   "posted": 1780563386607,
    "season": "",
    "source": "speedy",
    "key": "rivian::software engineering  embedded platforms",
@@ -10177,7 +10177,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619",
    "active": true,
-   "posted": 1780466748311,
+   "posted": 1780476986607,
    "season": "",
    "source": "speedy",
    "key": "nvidia::dgx cloud kubernetes runtime",
@@ -10198,7 +10198,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7646621925436131637",
    "active": true,
-   "posted": 1780466748311,
+   "posted": 1780476986607,
    "season": "",
    "source": "speedy",
    "key": "tiktok::ai software engineer project  transaction platform  start bsms",
@@ -10343,6 +10343,90 @@
    "sourceCount": 2
   },
   {
+   "company": "Apple",
+   "title": "Software PhD Internships",
+   "locations": [
+    "USA"
+   ],
+   "url": "https://jobs.apple.com/en-us/details/200664323-3810",
+   "active": true,
+   "posted": 1779526586607,
+   "season": "",
+   "source": "speedy",
+   "key": "apple::software phd s",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "apple",
+   "firmName": "Apple",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
+   "company": "Apple",
+   "title": "Software Engineering Masters Internships",
+   "locations": [
+    "USA"
+   ],
+   "url": "https://jobs.apple.com/en-us/details/200664320-3810",
+   "active": true,
+   "posted": 1779526586607,
+   "season": "",
+   "source": "speedy",
+   "key": "apple::software engineering masters s",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "apple",
+   "firmName": "Apple",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
+   "company": "Apple",
+   "title": "Software Undergrad Engineering Internships",
+   "locations": [
+    "USA"
+   ],
+   "url": "https://jobs.apple.com/en-us/details/200664785-3810",
+   "active": true,
+   "posted": 1779526586607,
+   "season": "",
+   "source": "speedy",
+   "key": "apple::software undergrad engineering s",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "apple",
+   "firmName": "Apple",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
+   "company": "NVIDIA",
+   "title": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
+   "active": true,
+   "posted": 1779526586607,
+   "season": "",
+   "source": "speedy",
+   "key": "nvidia::phd software engineering  decision intelligence",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "nvidia",
+   "firmName": "NVIDIA",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
    "company": "Ambarella",
    "title": "ASIC Design Engineer Intern",
    "locations": [
@@ -10424,90 +10508,6 @@
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Apple",
-   "title": "Software PhD Internships",
-   "locations": [
-    "USA"
-   ],
-   "url": "https://jobs.apple.com/en-us/details/200664323-3810",
-   "active": true,
-   "posted": 1779516348311,
-   "season": "",
-   "source": "speedy",
-   "key": "apple::software phd s",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "apple",
-   "firmName": "Apple",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "Apple",
-   "title": "Software Engineering Masters Internships",
-   "locations": [
-    "USA"
-   ],
-   "url": "https://jobs.apple.com/en-us/details/200664320-3810",
-   "active": true,
-   "posted": 1779516348311,
-   "season": "",
-   "source": "speedy",
-   "key": "apple::software engineering masters s",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "apple",
-   "firmName": "Apple",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "Apple",
-   "title": "Software Undergrad Engineering Internships",
-   "locations": [
-    "USA"
-   ],
-   "url": "https://jobs.apple.com/en-us/details/200664785-3810",
-   "active": true,
-   "posted": 1779516348311,
-   "season": "",
-   "source": "speedy",
-   "key": "apple::software undergrad engineering s",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "apple",
-   "firmName": "Apple",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "NVIDIA",
-   "title": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-   "active": true,
-   "posted": 1779516348311,
-   "season": "",
-   "source": "speedy",
-   "key": "nvidia::phd software engineering  decision intelligence",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "nvidia",
-   "firmName": "NVIDIA",
-   "hot": false,
    "sourceCount": 1
   },
   {
@@ -10777,7 +10777,7 @@
    ],
    "url": "https://www.metacareers.com/jobs/2160167211413098",
    "active": true,
-   "posted": 1778997948311,
+   "posted": 1779008186607,
    "season": "",
    "source": "speedy",
    "key": "meta::research scientist  embedded contextual ai on wearables phd",
@@ -11534,7 +11534,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7637047421538404613",
    "active": true,
-   "posted": 1778220348311,
+   "posted": 1778230586607,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  quality and efficiency technology   bsms",
@@ -11555,7 +11555,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5906",
    "active": true,
-   "posted": 1778220348311,
+   "posted": 1778230586607,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::quantitative analyst and software developer",
@@ -11814,7 +11814,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5894",
    "active": true,
-   "posted": 1777529148311,
+   "posted": 1777539386607,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer  new york",
@@ -11835,7 +11835,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5893",
    "active": true,
-   "posted": 1777529148311,
+   "posted": 1777539386607,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer phd  new york",
@@ -12110,7 +12110,7 @@
    ],
    "url": "https://www.amazon.jobs/jobs/10412530/apply",
    "active": true,
-   "posted": 1776924348311,
+   "posted": 1776934586607,
    "season": "",
    "source": "speedy",
    "key": "amazon::software development engineer  aws data services   us",
@@ -12706,7 +12706,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7629500062003218741",
    "active": true,
-   "posted": 1776492348311,
+   "posted": 1776502586607,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  recommendation infrastructure tiktok video social  start bsms",
@@ -12923,7 +12923,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7624284785283746053",
    "active": true,
-   "posted": 1775282748311,
+   "posted": 1775292986607,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  model infrastructure  start bsms",
