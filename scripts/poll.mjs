@@ -165,9 +165,13 @@ const feed = all.filter((p) => p.active || !p.posted || now - p.posted < 30 * DA
 
 // NEW watched hits = watched + active + in feed + unseen. Empty on first run (seed only).
 const newWatched = firstRun ? [] : feed.filter((p) => p.watched && p.active && !prevKeys.has(p.key));
+// Recall-first tier (Aug 3 2026): ALSO alert on unseen active postings from
+// NON-watched companies. False positives are acceptable; false negatives are not -
+// HPR was nearly missed because only watched firms alerted.
+const newUnwatched = firstRun ? [] : feed.filter((p) => !p.watched && p.active && !prevKeys.has(p.key));
 
 writeFileSync(OUT, JSON.stringify({ generatedAt: now, count: feed.length, broken, postings: feed }, null, 1));
 // emit alert payload for the workflow step
-writeFileSync('alerts.json', JSON.stringify({ newWatched, broken }, null, 1));
-console.error(`\nfeed=${feed.length} newWatched=${newWatched.length} broken=[${broken}]`);
+writeFileSync('alerts.json', JSON.stringify({ newWatched, newUnwatched, broken }, null, 1));
+console.error(`\nfeed=${feed.length} newWatched=${newWatched.length} newUnwatched=${newUnwatched.length} broken=[${broken}]`);
 for (const p of newWatched) console.error(`  ALERT ${p.firmName}: ${p.title} (${p.sources.join('+')})`);
