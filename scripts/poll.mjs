@@ -91,6 +91,21 @@ async function srcSnd() {
   return rows;
 }
 
+// zshah101 engine: polls ~4k ATS endpoints directly, publishes data/jobs.json
+// (dict keyed by id). posted_at is the portal's own date; first_seen_at is the
+// engine's sighting - prefer the portal date, fall back to first sighting.
+async function srcZshah() {
+  const d = await fetchJson('https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/data/jobs.json');
+  return Object.values(d).map((x) => {
+    const ts = Date.parse(x.posted_at || '') || Date.parse(x.first_seen_at || '') || null;
+    return {
+      company: x.company, title: x.title, locations: [x.location || ''],
+      url: x.url || '', active: x.is_open !== false,
+      posted: Number.isNaN(ts) ? null : ts, season: x.season || '', source: 'zshah',
+    };
+  });
+}
+
 const agoToTs = (v) => { const m = String(v || '').match(/(\d+)\s*(h|d|w|mo|y)/i); if (!m) return null; const ms = { h: 3600e3, d: 864e5, w: 6048e5, mo: 2592e6, y: 31536e6 }[m[2].toLowerCase()] || 864e5; return Date.now() - Number(m[1]) * ms; };
 async function srcSpeedy() {
   const md = await fetchText('https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md');
@@ -109,7 +124,7 @@ async function srcSpeedy() {
 }
 
 // ---------- run ----------
-const sources = [['vansh', srcVansh], ['simplify', srcSimplify], ['snd', srcSnd], ['speedy', srcSpeedy]];
+const sources = [['vansh', srcVansh], ['simplify', srcSimplify], ['snd', srcSnd], ['speedy', srcSpeedy], ['zshah', srcZshah]];
 const broken = [];
 let raw = [];
 for (const [name, fn] of sources) {
