@@ -1,6 +1,6 @@
 {
- "generatedAt": 1787647254890,
- "count": 1444,
+ "generatedAt": 1787650454030,
+ "count": 1445,
  "broken": [],
  "postings": [
   {
@@ -428,7 +428,7 @@
     "Mountain View, CA"
    ],
    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4377407009",
-   "active": true,
+   "active": false,
    "posted": 1787603743000,
    "season": "Winter 2027",
    "source": "simplify",
@@ -765,7 +765,7 @@
     "NYC"
    ],
    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81253",
-   "active": false,
+   "active": true,
    "posted": 1787581478000,
    "season": "Summer 2027",
    "source": "simplify",
@@ -1791,7 +1791,7 @@
    ],
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
    "active": true,
-   "posted": 1787474454661,
+   "posted": 1787477653557,
    "season": "",
    "source": "speedy",
    "key": "microsoft::ai software engineering  edge",
@@ -1875,7 +1875,7 @@
    ],
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
    "active": true,
-   "posted": 1787388054661,
+   "posted": 1787391253557,
    "season": "",
    "source": "speedy",
    "key": "databricks::software engineering   start",
@@ -1896,7 +1896,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7676276048527214901",
    "active": true,
-   "posted": 1787388054661,
+   "posted": 1787391253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  tiktok ai search visual search infra team",
@@ -2065,7 +2065,7 @@
     "Thornton, CO"
    ],
    "url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004",
-   "active": true,
+   "active": false,
    "posted": 1787352175000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -2711,7 +2711,7 @@
     "Mountain View, CA"
    ],
    "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002",
-   "active": true,
+   "active": false,
    "posted": 1787293913000,
    "season": "Winter 2027",
    "source": "simplify",
@@ -2874,7 +2874,7 @@
     "Santa Clara, CA"
    ],
    "url": "https://careers.amd.com/jobs/90807?icims=1",
-   "active": true,
+   "active": false,
    "posted": 1787293338000,
    "season": "Winter 2027, Summer 2027, Fall 2027",
    "source": "simplify",
@@ -2949,7 +2949,7 @@
     "Boxborough, MA"
    ],
    "url": "https://careers.amd.com/jobs/90820?icims=1",
-   "active": true,
+   "active": false,
    "posted": 1787293338000,
    "season": "Winter 2027, Summer 2027, Fall 2027",
    "source": "simplify",
@@ -3592,27 +3592,6 @@
    "sourceCount": 2
   },
   {
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7675845333947812149",
-   "active": true,
-   "posted": 1787217444000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::machine learning engineer  ecommerce supply chain logisticsllmagent phd",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Microsoft",
    "title": "AI Software Engineering Intern",
    "locations": [
@@ -3620,7 +3599,7 @@
    ],
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
    "active": true,
-   "posted": 1787215254661,
+   "posted": 1787218453557,
    "season": "",
    "source": "speedy",
    "key": "microsoft::ai software engineering",
@@ -3641,7 +3620,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
    "active": true,
-   "posted": 1787215254661,
+   "posted": 1787218453557,
    "season": "",
    "source": "speedy",
    "key": "nvidia::nvidia  s systems software engineering",
@@ -3662,7 +3641,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
    "active": true,
-   "posted": 1787215254661,
+   "posted": 1787218453557,
    "season": "",
    "source": "speedy",
    "key": "nvidia::nvidia   s developer and performance technology",
@@ -3683,7 +3662,7 @@
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
    "active": true,
-   "posted": 1787215254661,
+   "posted": 1787218453557,
    "season": "",
    "source": "speedy",
    "key": "nvidia::nvidia  s software engineering",
@@ -3694,6 +3673,27 @@
    "firmId": "nvidia",
    "firmName": "NVIDIA",
    "hot": false,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7675845333947812149",
+   "active": true,
+   "posted": 1787217444000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::machine learning engineer  ecommerce supply chain logisticsllmagent phd",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
    "sourceCount": 1
   },
   {
@@ -4373,7 +4373,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7675159726676101381",
    "active": true,
-   "posted": 1787128854661,
+   "posted": 1787132053557,
    "season": "Summer 2027",
    "source": "simplify",
    "key": "tiktok::software engineer  recommendation infra performance efficiency",
@@ -6775,7 +6775,7 @@
     "NYC"
    ],
    "url": "https://higher.gs.com/roles/171563?type=students",
-   "active": true,
+   "active": false,
    "posted": 1786767951000,
    "season": "Summer 2027",
    "source": "simplify",
@@ -6796,7 +6796,7 @@
     "NYC"
    ],
    "url": "https://higher.gs.com/roles/171535?type=students",
-   "active": true,
+   "active": false,
    "posted": 1786767947000,
    "season": "Summer 2027",
    "source": "simplify",
@@ -7831,6 +7831,28 @@
    "sourceCount": 2
   },
   {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7672926068681951493",
+   "active": true,
+   "posted": 1786613653557,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::software engineer  recommendation architecture feeds infrastructure",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
    "company": "Tesla",
    "title": "Firmware Engineer Intern - New Programs Engineering",
    "locations": [
@@ -7871,28 +7893,6 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7672926068681951493",
-   "active": true,
-   "posted": 1786610454661,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::software engineer  recommendation architecture feeds infrastructure",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
   },
   {
    "company": "Exa Labs",
@@ -10517,7 +10517,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7670839727059339525",
    "active": true,
-   "posted": 1786092054661,
+   "posted": 1786095253557,
    "season": "Summer 2027",
    "source": "simplify",
    "key": "tiktok::software engineer  global ecommercesearch",
@@ -10539,7 +10539,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7670874691332212997",
    "active": true,
-   "posted": 1786092054661,
+   "posted": 1786095253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::site reliability engineer  global sre",
@@ -12492,6 +12492,28 @@
   },
   {
    "company": "TikTok",
+   "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7669712589169117445",
+   "active": true,
+   "posted": 1785836053557,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  ai agent global revenue platform",
+   "sources": [
+    "vansh",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
    "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch",
    "locations": [
     "San Jose, CA"
@@ -12510,6 +12532,29 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Frontend Engineer Intern, Global CRM",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7669711026846058757",
+   "active": true,
+   "posted": 1785835212000,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::frontend engineer  global crm",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
   },
   {
    "company": "TikTok",
@@ -12760,51 +12805,6 @@
    "sources": [
     "vansh",
     "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
-   "title": "Frontend Engineer Intern, Global CRM",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7669711026846058757",
-   "active": true,
-   "posted": 1785832854661,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::frontend engineer  global crm",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7669712589169117445",
-   "active": true,
-   "posted": 1785832854661,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  ai agent global revenue platform",
-   "sources": [
-    "vansh",
-    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -15224,7 +15224,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668834837268138293",
    "active": true,
-   "posted": 1785660054661,
+   "posted": 1785663253557,
    "season": "Summer",
    "source": "vansh",
    "key": "tiktok::backend software engineer  global ecommerce",
@@ -15247,7 +15247,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668725183121000757",
    "active": true,
-   "posted": 1785660054661,
+   "posted": 1785663253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  tiktok effects performance",
@@ -15268,7 +15268,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668696895234197813",
    "active": true,
-   "posted": 1785660054661,
+   "posted": 1785663253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  ml infra  start phd",
@@ -15289,7 +15289,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668921505254410549",
    "active": true,
-   "posted": 1785660054661,
+   "posted": 1785663253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  tiktok shoot experience optimization",
@@ -15310,7 +15310,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668862422178318597",
    "active": true,
-   "posted": 1785660054661,
+   "posted": 1785663253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  tiktokintelligent creationcamera",
@@ -15331,7 +15331,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668837276597127477",
    "active": true,
-   "posted": 1785660054661,
+   "posted": 1785663253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software development engineer  global ecommercequality platform ai test automation",
@@ -15352,7 +15352,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668837275459324213",
    "active": true,
-   "posted": 1785660054661,
+   "posted": 1785663253557,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software development engineer  global ecommerce quality platform ai test automation",
@@ -15474,16 +15474,61 @@
   },
   {
    "company": "TikTok",
+   "title": "Software Engineer Intern, Data Arch - E-commerce",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668582146236631349",
+   "active": true,
+   "posted": 1785576853558,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  data arch ecommerce",
+   "sources": [
+    "vansh",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
    "title": "Software Engineer Intern, Business Integrity",
    "locations": [
     "San Jose, CA"
    ],
    "url": "https://lifeattiktok.com/search/7668584916620527925",
    "active": true,
-   "posted": 1785573654662,
+   "posted": 1785576853558,
    "season": "Summer",
    "source": "vansh",
    "key": "tiktok::software engineer  business integrity",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668642761473902901",
+   "active": true,
+   "posted": 1785576853558,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  creative intelligence and brand innovation",
    "sources": [
     "vansh",
     "simplify",
@@ -15503,78 +15548,10 @@
    ],
    "url": "https://lifeattiktok.com/search/7668584161852229893",
    "active": true,
-   "posted": 1785573654662,
+   "posted": 1785576853558,
    "season": "Summer",
    "source": "vansh",
    "key": "tiktok::frontend software engineer  ads measurement signal and privacy",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Data Arch - E-commerce",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668582146236631349",
-   "active": true,
-   "posted": 1785573654661,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  data arch ecommerce",
-   "sources": [
-    "vansh",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668642761473902901",
-   "active": true,
-   "posted": 1785573654661,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  creative intelligence and brand innovation",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668582031916435717",
-   "active": true,
-   "posted": 1785573654661,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  ads measurement signal and privacy",
    "sources": [
     "vansh",
     "simplify",
@@ -15594,7 +15571,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668675500744837381",
    "active": true,
-   "posted": 1785573654661,
+   "posted": 1785576853558,
    "season": "Summer",
    "source": "vansh",
    "key": "tiktok::software engineer  tiktokagentic creationaigc",
@@ -15616,7 +15593,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668445566565321013",
    "active": true,
-   "posted": 1785573654661,
+   "posted": 1785576853558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  tiktokagentic creationeffect platform",
@@ -15637,7 +15614,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7668581636242016565",
    "active": true,
-   "posted": 1785573654661,
+   "posted": 1785576853558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  ads infrastructure",
@@ -15649,6 +15626,29 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668582031916435717",
+   "active": true,
+   "posted": 1785576853557,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  ads measurement signal and privacy",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
   },
   {
    "company": "Medtronic",
@@ -15915,7 +15915,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667935399050692917",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "Summer",
    "source": "vansh",
    "key": "tiktok::software engineer  tiktoksocialfriending",
@@ -15937,7 +15937,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667934635573692725",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktoksocialfriending",
@@ -15958,7 +15958,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667934759481526581",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software development engineer in test tiktoktesting",
@@ -15979,7 +15979,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667934302872537397",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktok pgcdigital content center",
@@ -16000,7 +16000,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667935739300792629",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  tiktok developer platform",
@@ -16021,7 +16021,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667935738376227077",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer  tiktokgeneralized archcode intelligence quality validation",
@@ -16042,7 +16042,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667935739300317493",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktokprivacy and security",
@@ -16063,7 +16063,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667935633764370741",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktok product infrastructure",
@@ -16084,7 +16084,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667935565120112949",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktoksocialfoundation",
@@ -16105,7 +16105,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667935150530840837",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktokglobal livefoundation",
@@ -16126,7 +16126,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667934860750063925",
    "active": true,
-   "posted": 1785487254662,
+   "posted": 1785490453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktokgrowthinnovative growth",
@@ -16450,7 +16450,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667933770819897605",
    "active": true,
-   "posted": 1785400854662,
+   "posted": 1785404053558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktokpgccreator strategy",
@@ -16471,7 +16471,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7667933335084124469",
    "active": true,
-   "posted": 1785400854662,
+   "posted": 1785404053558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::backend software engineer  tiktoksearch",
@@ -20364,7 +20364,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7662594807715072261",
    "active": true,
-   "posted": 1784191254662,
+   "posted": 1784194453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::software engineer project  global ecommerce search infrastructure  start",
@@ -20385,7 +20385,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7662700594251958581",
    "active": true,
-   "posted": 1784191254662,
+   "posted": 1784194453558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::general hire software engineer  trust and safetyengineering",
@@ -20406,7 +20406,7 @@
    ],
    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
    "active": true,
-   "posted": 1784191254662,
+   "posted": 1784194453558,
    "season": "",
    "source": "speedy",
    "key": "citadel::software engineer  us",
@@ -20427,7 +20427,7 @@
    ],
    "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
    "active": true,
-   "posted": 1784191254662,
+   "posted": 1784194453558,
    "season": "",
    "source": "speedy",
    "key": "citadel securities::software engineer  us",
@@ -20672,6 +20672,32 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "The Trade Desk",
+   "title": "Software Engineering Intern",
+   "locations": [
+    "Seattle, WA",
+    "Irvine, CA",
+    "NYC",
+    "Bellevue, WA",
+    "Denver, CO",
+    "Boulder, CO"
+   ],
+   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
+   "active": true,
+   "posted": 1784154357000,
+   "season": "Winter 2027, Spring 2027, Summer 2027, Fall 2027, Winter 2028, Spring 2028, Summer 2028",
+   "source": "simplify",
+   "key": "the trade desk::software engineering",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
   },
   {
    "company": "Old Mission Capital",
@@ -21535,7 +21561,7 @@
    ],
    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
    "active": true,
-   "posted": 1783672854662,
+   "posted": 1783676053558,
    "season": "",
    "source": "speedy",
    "key": "jump trading::campus software engineer",
@@ -22117,7 +22143,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
    "active": true,
-   "posted": 1783500054662,
+   "posted": 1783503253558,
    "season": "Spring",
    "source": "vansh",
    "key": "jane street::software engineer",
@@ -22139,7 +22165,7 @@
    ],
    "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
    "active": true,
-   "posted": 1783500054662,
+   "posted": 1783503253558,
    "season": "",
    "source": "speedy",
    "key": "jane street::software engineer  coop",
@@ -22424,27 +22450,6 @@
    "season": "Fall 2026",
    "source": "simplify",
    "key": "tiktok::applied scientist  recommendation ai lab",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Astranis",
-   "title": "Radiation Effects Engineer Intern",
-   "locations": [
-    "SF"
-   ],
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4694853006",
-   "active": true,
-   "posted": 1783377441000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "astranis::radiation effects engineer",
    "sources": [
     "simplify"
    ],
@@ -22766,7 +22771,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "active": true,
-   "posted": 1783068054662,
+   "posted": 1783071253558,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    chicago",
@@ -22787,7 +22792,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
    "active": true,
-   "posted": 1783068054662,
+   "posted": 1783071253558,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    austin",
@@ -24007,7 +24012,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7654431844394322229",
    "active": true,
-   "posted": 1782290454662,
+   "posted": 1782293653558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::frontend software engineer project  global crm  startbsms",
@@ -25532,7 +25537,7 @@
    ],
    "url": "https://lifeattiktok.com/search/7646621925436131637",
    "active": true,
-   "posted": 1780476054662,
+   "posted": 1780479253558,
    "season": "",
    "source": "speedy",
    "key": "tiktok::ai software engineer project  transaction platform  start bsms",
@@ -25817,7 +25822,7 @@
    ],
    "url": "https://jobs.apple.com/en-us/details/200664320-3810",
    "active": true,
-   "posted": 1779525654662,
+   "posted": 1779528853558,
    "season": "",
    "source": "speedy",
    "key": "apple::software engineering masters s",
@@ -25838,7 +25843,7 @@
    ],
    "url": "https://jobs.apple.com/en-us/details/200664785-3810",
    "active": true,
-   "posted": 1779525654662,
+   "posted": 1779528853558,
    "season": "",
    "source": "speedy",
    "key": "apple::software undergrad engineering s",
@@ -25859,7 +25864,7 @@
    ],
    "url": "https://jobs.apple.com/en-us/details/200664323-3810",
    "active": true,
-   "posted": 1779525654662,
+   "posted": 1779528853558,
    "season": "",
    "source": "speedy",
    "key": "apple::software phd s",
@@ -26781,7 +26786,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5906",
    "active": true,
-   "posted": 1778229654662,
+   "posted": 1778232853558,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::quantitative analyst and software developer",
@@ -26957,7 +26962,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5893",
    "active": true,
-   "posted": 1777538454662,
+   "posted": 1777541653558,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer phd  new york",
@@ -26978,7 +26983,7 @@
    ],
    "url": "https://www.deshaw.com/careers/5894",
    "active": true,
-   "posted": 1777538454662,
+   "posted": 1777541653558,
    "season": "",
    "source": "speedy",
    "key": "d e shaw co::software developer  new york",
@@ -26990,6 +26995,28 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "Astranis",
+   "title": "Flight Software Intern",
+   "locations": [
+    "SF"
+   ],
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006",
+   "active": true,
+   "posted": 1777500870000,
+   "season": "Fall 2026",
+   "source": "simplify",
+   "key": "astranis::flight software",
+   "sources": [
+    "simplify",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
   },
   {
    "company": "Intel",
