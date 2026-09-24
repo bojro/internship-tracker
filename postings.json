@@ -1,20 +1,20 @@
 {
- "generatedAt": 1790258552637,
- "count": 3344,
+ "generatedAt": 1790274791370,
+ "count": 3361,
  "broken": [],
  "postings": [
   {
-   "company": "Wurl",
-   "title": "Data Science Intern",
+   "company": "Major League Baseball",
+   "title": "Software Engineer Intern, Baseball Systems",
    "locations": [
-    "Remote - United States"
+    "Cleveland, Ohio, United States"
    ],
-   "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
+   "url": "https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002",
    "active": true,
-   "posted": 1790252736000,
+   "posted": 1790263011000,
    "season": "Not stated",
    "source": "zshah",
-   "key": "wurl::data science",
+   "key": "major league baseball::software engineer  baseball systems",
    "sources": [
     "zshah"
    ],
@@ -25,17 +25,17 @@
    "sourceCount": 1
   },
   {
-   "company": "Kitware",
-   "title": "Computer Vision Co-Op",
+   "company": "Voloridge",
+   "title": "Quantitative Trading Intern 2027",
    "locations": [
-    "Clifton Park, New York"
+    "Jupiter, FL"
    ],
-   "url": "https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3",
+   "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009",
    "active": true,
-   "posted": 1790245007000,
-   "season": "Not stated",
+   "posted": 1790261312000,
+   "season": "Summer 2027",
    "source": "zshah",
-   "key": "kitware::computer vision coop",
+   "key": "voloridge::quantitative trading",
    "sources": [
     "zshah"
    ],
@@ -44,6 +44,92 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "Enterprise Holdings",
+   "title": "Data Engineer Intern - IT",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false",
+   "active": true,
+   "posted": 1790259827000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "enterprise holdings::data engineer  it",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Arconic",
+   "title": "Software Developer Intern",
+   "locations": [
+    "Davenport, IA"
+   ],
+   "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233",
+   "active": true,
+   "posted": 1790259391000,
+   "season": "Summer 2027, Spring 2028, Summer 2028, Spring 2029, Summer 2029",
+   "source": "simplify",
+   "key": "arconic::software developer",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Wurl",
+   "title": "Data Science Intern",
+   "locations": [
+    "Remote in USA"
+   ],
+   "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
+   "active": true,
+   "posted": 1790252736000,
+   "season": "Winter 2026",
+   "source": "simplify",
+   "key": "wurl::data science",
+   "sources": [
+    "simplify",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Kitware",
+   "title": "Computer Vision Co-op",
+   "locations": [
+    "Clifton Park, NY"
+   ],
+   "url": "https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3/apply",
+   "active": true,
+   "posted": 1790245007000,
+   "season": "Winter 2026",
+   "source": "simplify",
+   "key": "kitware::computer vision coop",
+   "sources": [
+    "simplify",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
   },
   {
    "company": "Graphcore",
@@ -257,45 +343,47 @@
   },
   {
    "company": "Ramp",
-   "title": "Software Engineering Intern, iOS",
+   "title": "Software Engineering Intern - iOS",
    "locations": [
-    "New York, NY (HQ)"
+    "New York City, NY"
    ],
    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
    "active": true,
    "posted": 1790211709394,
-   "season": "Not stated",
-   "source": "zshah",
+   "season": "",
+   "source": "speedy",
    "key": "ramp::software engineering  ios",
    "sources": [
+    "speedy",
     "zshah"
    ],
    "watched": true,
    "firmId": "ramp",
    "firmName": "Ramp",
    "hot": false,
-   "sourceCount": 1
+   "sourceCount": 2
   },
   {
    "company": "Ramp",
-   "title": "Software Engineering Intern, Android",
+   "title": "Software Engineering Intern - Android",
    "locations": [
-    "New York, NY (HQ)"
+    "New York City, NY"
    ],
    "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
    "active": true,
    "posted": 1790211333807,
-   "season": "Not stated",
-   "source": "zshah",
+   "season": "",
+   "source": "speedy",
    "key": "ramp::software engineering  android",
    "sources": [
+    "speedy",
     "zshah"
    ],
    "watched": true,
    "firmId": "ramp",
    "firmName": "Ramp",
    "hot": false,
-   "sourceCount": 1
+   "sourceCount": 2
   },
   {
    "company": "Ramp",
@@ -311,26 +399,48 @@
    "key": "ramp::software engineer  frontend",
    "sources": [
     "simplify",
+    "speedy",
     "zshah"
    ],
    "watched": true,
    "firmId": "ramp",
    "firmName": "Ramp",
    "hot": false,
-   "sourceCount": 2
+   "sourceCount": 3
   },
   {
-   "company": "Graphcore",
-   "title": "Firmware Engineering Intern",
+   "company": "Ciena",
+   "title": "Software Intern - WaveLogic",
    "locations": [
-    "Austin, Texas, United States"
+    "Atlanta, GA"
    ],
-   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841894002",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692",
    "active": true,
-   "posted": 1790204596000,
-   "season": "Not stated",
+   "posted": 1790208000000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "ciena::software  wavelogic",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "ABB",
+   "title": "IS Common Infrastructure Intern- Summer 2027",
+   "locations": [
+    "USA, NC, Cary"
+   ],
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
+   "active": true,
+   "posted": 1790208000000,
+   "season": "Summer 2027",
    "source": "zshah",
-   "key": "graphcore::firmware engineering",
+   "key": "abb::is common infrastructure",
    "sources": [
     "zshah"
    ],
@@ -339,6 +449,28 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "Graphcore",
+   "title": "Firmware Engineering Intern",
+   "locations": [
+    "Austin, TX"
+   ],
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841894002",
+   "active": true,
+   "posted": 1790204596000,
+   "season": "",
+   "source": "speedy",
+   "key": "graphcore::firmware engineering",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
   },
   {
    "company": "Waymo",
@@ -374,13 +506,14 @@
    "source": "simplify",
    "key": "seatgeek::software engineer",
    "sources": [
-    "simplify"
+    "simplify",
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
+   "sourceCount": 2
   },
   {
    "company": "Qumulo",
@@ -449,22 +582,23 @@
    "company": "Box",
    "title": "Cloud & AI Finance Intern",
    "locations": [
-    "Redwood City, CA, United States"
+    "Remote - Redwood City, CA"
    ],
    "url": "https://job-boards.greenhouse.io/boxinc/jobs/8226667",
    "active": true,
    "posted": 1790201721000,
-   "season": "Not stated",
-   "source": "zshah",
+   "season": "",
+   "source": "speedy",
    "key": "box::cloud ai finance",
    "sources": [
+    "speedy",
     "zshah"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
+   "sourceCount": 2
   },
   {
    "company": "Keysight Technologies",
@@ -703,6 +837,49 @@
    "firmName": "Figma",
    "hot": false,
    "sourceCount": 2
+  },
+  {
+   "company": "ZipRecruiter",
+   "title": "Software Engineer - Intern",
+   "locations": [
+    "Santa Monica, CA"
+   ],
+   "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455",
+   "active": true,
+   "posted": 1790190200000,
+   "season": "",
+   "source": "speedy",
+   "key": "ziprecruiter::software engineer",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer: Intern Opportunity for University Students",
+   "locations": [
+    "California, MD"
+   ],
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819",
+   "active": true,
+   "posted": 1790188391168,
+   "season": "",
+   "source": "speedy",
+   "key": "microsoft::software engineer  opportunity for university students",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "microsoft",
+   "firmName": "Microsoft",
+   "hot": false,
+   "sourceCount": 1
   },
   {
    "company": "AXS",
@@ -1329,6 +1506,95 @@
    "key": "sonos::software engineering coop signal processing",
    "sources": [
     "simplify",
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "Johnson & Johnson",
+   "title": "Heart Recovery Software R&D Co-Op",
+   "locations": [
+    "Maryland City, MD"
+   ],
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393",
+   "active": true,
+   "posted": 1790121600000,
+   "season": "",
+   "source": "speedy",
+   "key": "johnson johnson::heart recovery software rd coop",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Johnson & Johnson",
+   "title": "Software Test Engineering Co-op - RLM",
+   "locations": [
+    "Danvers, MA"
+   ],
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669",
+   "active": true,
+   "posted": 1790121600000,
+   "season": "",
+   "source": "speedy",
+   "key": "johnson johnson::software test engineering coop rlm",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Johnson & Johnson",
+   "title": "Software Test Engineering Co-op - Beatbox",
+   "locations": [
+    "Danvers, MA"
+   ],
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707",
+   "active": true,
+   "posted": 1790121600000,
+   "season": "",
+   "source": "speedy",
+   "key": "johnson johnson::software test engineering coop beatbox",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Sonos",
+   "title": "Software Engineering Co-op - Cloud",
+   "locations": [
+    "Boston, MA"
+   ],
+   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2",
+   "active": true,
+   "posted": 1790121600000,
+   "season": "",
+   "source": "speedy",
+   "key": "sonos::software engineering coop cloud",
+   "sources": [
+    "speedy",
     "zshah"
    ],
    "watched": false,
@@ -1443,69 +1709,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Johnson & Johnson",
-   "title": "Software Test Engineering Co-op (Beatbox)",
-   "locations": [
-    "Danvers, Massachusetts, United States of America"
-   ],
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707",
-   "active": false,
-   "posted": 1790121600000,
-   "season": "Winter 2027",
-   "source": "zshah",
-   "key": "johnson johnson::software test engineering coop beatbox",
-   "sources": [
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Johnson & Johnson",
-   "title": "Software Test Engineering Co-op (RLM)",
-   "locations": [
-    "Danvers, Massachusetts, United States of America"
-   ],
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669",
-   "active": false,
-   "posted": 1790121600000,
-   "season": "Winter 2027",
-   "source": "zshah",
-   "key": "johnson johnson::software test engineering coop rlm",
-   "sources": [
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Johnson & Johnson",
-   "title": "Heart Recovery Software R&D Co-Op",
-   "locations": [
-    "Halethorpe, Maryland, United States of America"
-   ],
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393",
-   "active": false,
-   "posted": 1790121600000,
-   "season": "Spring 2027",
-   "source": "zshah",
-   "key": "johnson johnson::heart recovery software rd coop",
-   "sources": [
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Northrop Grumman",
    "title": "2027 Software Engineer Intern – Woodland Hills CA",
    "locations": [
@@ -1538,27 +1741,6 @@
    "season": "Fall 2026",
    "source": "zshah",
    "key": "sierra nevada corporation::software engineer i for  s only",
-   "sources": [
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Sonos",
-   "title": "Software Engineering Co-op (Cloud)",
-   "locations": [
-    "Boston, MA"
-   ],
-   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Co-op--Cloud-_R2822-2",
-   "active": false,
-   "posted": 1790121600000,
-   "season": "Winter 2027",
-   "source": "zshah",
-   "key": "sonos::software engineering coop cloud",
    "sources": [
     "zshah"
    ],
@@ -1953,24 +2135,24 @@
    "sourceCount": 1
   },
   {
-   "company": "Optiver",
-   "title": "Software Engineer Co-Op - January - April 2027",
+   "company": "Haigroup",
+   "title": "Software Development Intern",
    "locations": [
-    "Chicago, IL"
+    "Cheshire, CT"
    ],
-   "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002",
+   "url": "https://job-boards.greenhouse.io/haigroup/jobs/4409386009",
    "active": true,
-   "posted": 1790085752289,
-   "season": "",
-   "source": "speedy",
-   "key": "optiver::software engineer coop january april",
+   "posted": 1790080263000,
+   "season": "Not stated",
+   "source": "zshah",
+   "key": "haigroup::software development",
    "sources": [
-    "speedy"
+    "zshah"
    ],
-   "watched": true,
-   "firmId": "optiver",
-   "firmName": "Optiver",
-   "hot": true,
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
    "sourceCount": 1
   },
   {
@@ -1987,6 +2169,27 @@
    "key": "trane technologies::software engineer",
    "sources": [
     "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Formlabsinternships",
+   "title": "Embedded Software Intern (Summer 2027)",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8222268",
+   "active": true,
+   "posted": 1790045469000,
+   "season": "Summer 2027",
+   "source": "zshah",
+   "key": "formlabsinternships::embedded software",
+   "sources": [
+    "zshah"
    ],
    "watched": false,
    "firmId": null,
@@ -2506,7 +2709,7 @@
     "Annapolis Junction, MD"
    ],
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
-   "active": true,
+   "active": false,
    "posted": 1790035200000,
    "season": "Summer 2027",
    "source": "simplify",
@@ -2860,6 +3063,28 @@
   },
   {
    "company": "Allegion",
+   "title": "Summer Intern - Software Operations Engineer",
+   "locations": [
+    "Carmel, IN"
+   ],
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1",
+   "active": true,
+   "posted": 1790035200000,
+   "season": "",
+   "source": "speedy",
+   "key": "allegion::software operations engineer",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Allegion",
    "title": "Summer Intern - Software Engineer",
    "locations": [
     "Carmel, IN"
@@ -2881,17 +3106,17 @@
    "sourceCount": 2
   },
   {
-   "company": "Allegion",
-   "title": "Summer Intern - Software Operations Engineer",
+   "company": "GuideStone",
+   "title": "Summer Intern - Software Developer",
    "locations": [
-    "Carmel, IN"
+    "Dallas, TX"
    ],
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1",
+   "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
    "active": true,
    "posted": 1790035200000,
    "season": "",
    "source": "speedy",
-   "key": "allegion::software operations engineer",
+   "key": "guidestone::software developer",
    "sources": [
     "speedy",
     "zshah"
@@ -2926,16 +3151,16 @@
   },
   {
    "company": "Northrop Grumman",
-   "title": "2027 Cyber Software Engineer Intern - Tampa FL",
+   "title": "2027 Software Engineer Intern - San Diego CA",
    "locations": [
-    "Tampa, FL"
+    "San Diego, CA"
    ],
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
    "active": true,
    "posted": 1790035200000,
    "season": "",
    "source": "speedy",
-   "key": "northrop grumman::cyber software engineer  tampa fl",
+   "key": "northrop grumman::software engineer  san diego ca",
    "sources": [
     "speedy",
     "zshah"
@@ -2948,16 +3173,16 @@
   },
   {
    "company": "Northrop Grumman",
-   "title": "2027 Software Engineer Intern - San Diego CA",
+   "title": "2027 Cyber Software Engineer Intern - Tampa FL",
    "locations": [
-    "San Diego, CA"
+    "Tampa, FL"
    ],
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
    "active": true,
    "posted": 1790035200000,
    "season": "",
    "source": "speedy",
-   "key": "northrop grumman::software engineer  san diego ca",
+   "key": "northrop grumman::cyber software engineer  tampa fl",
    "sources": [
     "speedy",
     "zshah"
@@ -3086,27 +3311,6 @@
    "season": "Not stated",
    "source": "zshah",
    "key": "emc insurance::software engineering",
-   "sources": [
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "GuideStone",
-   "title": "Summer Intern - Software Developer",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
-   "active": true,
-   "posted": 1790035200000,
-   "season": "Not stated",
-   "source": "zshah",
-   "key": "guidestone::software developer",
    "sources": [
     "zshah"
    ],
@@ -4059,13 +4263,14 @@
    "source": "simplify",
    "key": "fidelity investments::undergraduate  software",
    "sources": [
-    "simplify"
+    "simplify",
+    "speedy"
    ],
    "watched": true,
    "firmId": "fidelity",
    "firmName": "Fidelity",
    "hot": false,
-   "sourceCount": 1
+   "sourceCount": 2
   },
   {
    "company": "Upbound Group",
@@ -4745,16 +4950,16 @@
   },
   {
    "company": "Northrop Grumman",
-   "title": "2027 Embedded Software Engineer Intern - Camarillo CA",
+   "title": "2027 Embedded Software Engineer Intern - Baltimore MD",
    "locations": [
-    "Camarillo, CA"
+    "Baltimore, MD"
    ],
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
    "active": true,
    "posted": 1789948800000,
    "season": "",
    "source": "speedy",
-   "key": "northrop grumman::embedded software engineer  camarillo ca",
+   "key": "northrop grumman::embedded software engineer  baltimore md",
    "sources": [
     "speedy",
     "zshah"
@@ -4767,16 +4972,16 @@
   },
   {
    "company": "Northrop Grumman",
-   "title": "2027 Embedded Software Engineer Intern - Baltimore MD",
+   "title": "2027 Embedded Software Engineer Intern - Camarillo CA",
    "locations": [
-    "Baltimore, MD"
+    "Camarillo, CA"
    ],
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
    "active": true,
    "posted": 1789948800000,
    "season": "",
    "source": "speedy",
-   "key": "northrop grumman::embedded software engineer  baltimore md",
+   "key": "northrop grumman::embedded software engineer  camarillo ca",
    "sources": [
     "speedy",
     "zshah"
@@ -4933,27 +5138,6 @@
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineering Internship - 6-month Program",
-   "locations": [
-    "California, MD"
-   ],
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-   "active": true,
-   "posted": 1789826552288,
-   "season": "",
-   "source": "speedy",
-   "key": "microsoft::software engineering  6month program",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "microsoft",
-   "firmName": "Microsoft",
-   "hot": false,
    "sourceCount": 1
   },
   {
@@ -5569,6 +5753,27 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineering Internship - 6-month Program",
+   "locations": [
+    "California, MD"
+   ],
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+   "active": true,
+   "posted": 1789756391168,
+   "season": "",
+   "source": "speedy",
+   "key": "microsoft::software engineering  6month program",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "microsoft",
+   "firmName": "Microsoft",
+   "hot": false,
+   "sourceCount": 1
   },
   {
    "company": "Corning",
@@ -6573,21 +6778,20 @@
     "NYC"
    ],
    "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158",
-   "active": true,
+   "active": false,
    "posted": 1789678521000,
    "season": "Summer 2027",
    "source": "simplify",
    "key": "tower research capital::software engineer",
    "sources": [
     "simplify",
-    "speedy",
     "zshah"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 3
+   "sourceCount": 2
   },
   {
    "company": "Renesas Electronics",
@@ -6782,25 +6986,24 @@
   },
   {
    "company": "Waymo",
-   "title": "2027 Summer Intern - BS/MS - Software Engineering - Maneuvering Tech",
+   "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
    "locations": [
-    "San Francisco, CA"
+    "San Francisco, California"
    ],
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
    "active": true,
    "posted": 1789616038000,
-   "season": "",
-   "source": "speedy",
+   "season": "Summer 2027",
+   "source": "zshah",
    "key": "waymo::bsms software engineering maneuvering tech",
    "sources": [
-    "speedy",
     "zshah"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 2
+   "sourceCount": 1
   },
   {
    "company": "Ninjaholdings",
@@ -7512,16 +7715,16 @@
   },
   {
    "company": "Visa",
-   "title": "Software Engineer - Intern - Bellevue - 2027",
+   "title": "Software Engineer - Intern - 2027 Austin - TX",
    "locations": [
-    "USA"
+    "Austin, TX"
    ],
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
    "active": true,
    "posted": 1789603200000,
    "season": "",
    "source": "speedy",
-   "key": "visa::software engineer  bellevue",
+   "key": "visa::software engineer   austin tx",
    "sources": [
     "speedy",
     "zshah"
@@ -7556,16 +7759,38 @@
   },
   {
    "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern - Bellevue",
+   "title": "Software Engineer - Intern - Bellevue - 2027",
    "locations": [
     "USA"
    ],
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
    "active": true,
    "posted": 1789603200000,
    "season": "",
    "source": "speedy",
-   "key": "visa::sophomore  program software engineer  bellevue",
+   "key": "visa::software engineer  bellevue",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Visa",
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern - Foster City",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
+   "active": true,
+   "posted": 1789603200000,
+   "season": "",
+   "source": "speedy",
+   "key": "visa::sophomore  program software engineer  foster city",
    "sources": [
     "speedy",
     "zshah"
@@ -7588,28 +7813,6 @@
    "season": "",
    "source": "speedy",
    "key": "visa::software engineer   ashburn va",
-   "sources": [
-    "speedy",
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "Visa",
-   "title": "Software Engineer - Intern - 2027 Austin - TX",
-   "locations": [
-    "Austin, TX"
-   ],
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
-   "active": true,
-   "posted": 1789603200000,
-   "season": "",
-   "source": "speedy",
-   "key": "visa::software engineer   austin tx",
    "sources": [
     "speedy",
     "zshah"
@@ -7832,6 +8035,27 @@
   },
   {
    "company": "Visa",
+   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+   "locations": [
+    "US - Bellevue, WA"
+   ],
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
+   "active": true,
+   "posted": 1789603200000,
+   "season": "Summer 2027",
+   "source": "zshah",
+   "key": "visa::sophomore  program software engineer  bellevue",
+   "sources": [
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Visa",
    "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
    "locations": [
     "US - Denver, CO"
@@ -7873,17 +8097,17 @@
    "sourceCount": 1
   },
   {
-   "company": "Visa",
-   "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+   "company": "Zekelman Industries",
+   "title": "AI Intern",
    "locations": [
-    "US - Foster City, CA"
+    "Wheatland, PA - Council Ave"
    ],
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
+   "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752",
    "active": true,
    "posted": 1789603200000,
    "season": "Summer 2027",
    "source": "zshah",
-   "key": "visa::sophomore  program software engineer  foster city",
+   "key": "zekelman industries::ai",
    "sources": [
     "zshah"
    ],
@@ -11200,7 +11424,7 @@
     "Santa Clara, CA"
    ],
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
-   "active": false,
+   "active": true,
    "posted": 1789430400000,
    "season": "Summer 2027",
    "source": "simplify",
@@ -13955,16 +14179,16 @@
   },
   {
    "company": "Robinhood",
-   "title": "Software Engineering Intern - iOS - Summer 2027",
+   "title": "Software Engineering Intern - Android - Summer 2027",
    "locations": [
     "Menlo Park, CA"
    ],
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
    "active": true,
    "posted": 1789387209000,
    "season": "",
    "source": "speedy",
-   "key": "robinhood::software engineering  ios",
+   "key": "robinhood::software engineering  android",
    "sources": [
     "speedy",
     "zshah"
@@ -13977,16 +14201,16 @@
   },
   {
    "company": "Robinhood",
-   "title": "Software Engineering Intern - Android - Summer 2027",
+   "title": "Software Engineering Intern - iOS - Summer 2027",
    "locations": [
     "Menlo Park, CA"
    ],
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
    "active": true,
    "posted": 1789387209000,
    "season": "",
    "source": "speedy",
-   "key": "robinhood::software engineering  android",
+   "key": "robinhood::software engineering  ios",
    "sources": [
     "speedy",
     "zshah"
@@ -14717,21 +14941,20 @@
     "Remote in USA"
    ],
    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
-   "active": true,
+   "active": false,
    "posted": 1789344000000,
    "season": "Summer 2027",
    "source": "simplify",
    "key": "wex::backend software engineer  java ai masters",
    "sources": [
     "simplify",
-    "speedy",
     "zshah"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 3
+   "sourceCount": 2
   },
   {
    "company": "Wex",
@@ -14951,38 +15174,16 @@
   },
   {
    "company": "WEX",
-   "title": "Backend Software Engineer Intern - C# - Cloud Security & AI - Undergraduate",
+   "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
    "locations": [
     "Remote - USA"
    ],
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
    "active": true,
    "posted": 1789344000000,
    "season": "",
    "source": "speedy",
-   "key": "wex::backend software engineer  c cloud security ai undergraduate",
-   "sources": [
-    "speedy",
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "WEX",
-   "title": "Software Engineer Intern - AI & Cloud - Graduate/Master’s",
-   "locations": [
-    "Remote - USA"
-   ],
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
-   "active": true,
-   "posted": 1789344000000,
-   "season": "",
-   "source": "speedy",
-   "key": "wex::software engineer  ai cloud graduatemasters",
+   "key": "wex::backend software engineer  cjava ai workflows undergraduate",
    "sources": [
     "speedy",
     "zshah"
@@ -15005,6 +15206,50 @@
    "season": "",
    "source": "speedy",
    "key": "wex::devops ai engineering  undergraduate",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "WEX",
+   "title": "DevOps & Backend Software Engineer Intern - Undergraduate",
+   "locations": [
+    "Remote - USA"
+   ],
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+   "active": true,
+   "posted": 1789344000000,
+   "season": "",
+   "source": "speedy",
+   "key": "wex::devops backend software engineer  undergraduate",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "WEX",
+   "title": "Backend Software Engineer Intern - C# - Cloud Security & AI - Undergraduate",
+   "locations": [
+    "Remote - USA"
+   ],
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+   "active": true,
+   "posted": 1789344000000,
+   "season": "",
+   "source": "speedy",
+   "key": "wex::backend software engineer  c cloud security ai undergraduate",
    "sources": [
     "speedy",
     "zshah"
@@ -15311,27 +15556,6 @@
   },
   {
    "company": "Wex",
-   "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
-   "locations": [
-    "US - Remote"
-   ],
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
-   "active": false,
-   "posted": 1789344000000,
-   "season": "Not stated",
-   "source": "zshah",
-   "key": "wex::backend software engineer  cjava ai workflows undergraduate",
-   "sources": [
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Wex",
    "title": "Data & AI Intern (Graduate/Master’s)",
    "locations": [
     "US - Remote"
@@ -15342,27 +15566,6 @@
    "season": "Not stated",
    "source": "zshah",
    "key": "wex::data ai  graduatemasters",
-   "sources": [
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Wex",
-   "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
-   "locations": [
-    "US - Remote"
-   ],
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
-   "active": false,
-   "posted": 1789344000000,
-   "season": "Not stated",
-   "source": "zshah",
-   "key": "wex::devops backend software engineer  undergraduate",
    "sources": [
     "zshah"
    ],
@@ -15394,24 +15597,24 @@
    "sourceCount": 1
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineering Intern - CTJ - TS",
+   "company": "Wex",
+   "title": "Software Engineer Intern – AI & Cloud (Graduate/Master’s)",
    "locations": [
-    "Washington, DC"
+    "US - Remote"
    ],
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-   "active": true,
-   "posted": 1789308152288,
-   "season": "",
-   "source": "speedy",
-   "key": "microsoft::software engineering  ctj ts",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+   "active": false,
+   "posted": 1789344000000,
+   "season": "Not stated",
+   "source": "zshah",
+   "key": "wex::software engineer  ai cloud graduatemasters",
    "sources": [
-    "speedy"
+    "zshah"
    ],
-   "watched": true,
-   "firmId": "microsoft",
-   "firmName": "Microsoft",
-   "hot": false,
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
    "sourceCount": 1
   },
   {
@@ -15581,6 +15784,27 @@
    "firmId": null,
    "firmName": null,
    "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineering Intern - CTJ - TS",
+   "locations": [
+    "Virginia, MN"
+   ],
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
+   "active": true,
+   "posted": 1789237991168,
+   "season": "",
+   "source": "speedy",
+   "key": "microsoft::software engineering  ctj ts",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "microsoft",
+   "firmName": "Microsoft",
+   "hot": false,
    "sourceCount": 1
   },
   {
@@ -16884,28 +17108,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern - Summer 2027 - USA",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://www.amazon.jobs/jobs/10552937/apply",
-   "active": true,
-   "posted": 1789135352288,
-   "season": "",
-   "source": "speedy",
-   "key": "amazon::software development engineer    usa",
-   "sources": [
-    "speedy",
-    "zshah"
-   ],
-   "watched": true,
-   "firmId": "amazon",
-   "firmName": "Amazon",
-   "hot": false,
-   "sourceCount": 2
-  },
-  {
    "company": "Wellmark",
    "title": "Software Engineer Intern",
    "locations": [
@@ -17152,14 +17354,13 @@
    "key": "moog::embedded design engineering",
    "sources": [
     "simplify",
-    "speedy",
     "zshah"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 3
+   "sourceCount": 2
   },
   {
    "company": "AES",
@@ -17254,7 +17455,7 @@
     "Baltimore, MD"
    ],
    "url": "https://erickson.wd108.myworkdayjobs.com/External/job/Baltimore-MD/College-Intern-Corporate_R0103863-1",
-   "active": true,
+   "active": false,
    "posted": 1789084800000,
    "season": "Winter 2026",
    "source": "simplify",
@@ -18838,6 +19039,28 @@
    "sourceCount": 2
   },
   {
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Summer 2027 - USA",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://www.amazon.jobs/jobs/10552937/apply",
+   "active": true,
+   "posted": 1789065191168,
+   "season": "",
+   "source": "speedy",
+   "key": "amazon::software development engineer    usa",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": true,
+   "firmId": "amazon",
+   "firmName": "Amazon",
+   "hot": false,
+   "sourceCount": 2
+  },
+  {
    "company": "Tanium",
    "title": "Software Engineering Intern - Summer 2027",
    "locations": [
@@ -19064,27 +19287,6 @@
    "key": "garmin::reliability engineer  operations",
    "sources": [
     "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Rivian",
-   "title": "Software Engineering Intern - Vehicle Controls - January - August 2027",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f",
-   "active": true,
-   "posted": 1789048952288,
-   "season": "",
-   "source": "speedy",
-   "key": "rivian::software engineering  vehicle controls january august",
-   "sources": [
-    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -20104,28 +20306,6 @@
   },
   {
    "company": "Bracco",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "Eden Prairie, MN"
-   ],
-   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328",
-   "active": true,
-   "posted": 1788998400000,
-   "season": "",
-   "source": "speedy",
-   "key": "bracco::software engineering",
-   "sources": [
-    "speedy",
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "Bracco",
    "title": "Software Engineering Intern/ Co-op - R&D Sustaining",
    "locations": [
     "Eden Prairie, MN"
@@ -20147,17 +20327,17 @@
    "sourceCount": 2
   },
   {
-   "company": "Priceline",
-   "title": "Software Engineering - Full Stack - Northeastern Co-op",
+   "company": "Bracco",
+   "title": "Software Engineering Intern",
    "locations": [
-    "New York City, NY"
+    "Eden Prairie, MN"
    ],
-   "url": "https://priceline.wd1.myworkdayjobs.com/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
+   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328",
    "active": true,
    "posted": 1788998400000,
    "season": "",
    "source": "speedy",
-   "key": "priceline::software engineering full stack northeastern coop",
+   "key": "bracco::software engineering",
    "sources": [
     "speedy",
     "zshah"
@@ -20180,6 +20360,28 @@
    "season": "",
    "source": "speedy",
    "key": "priceline::software engineering webjavascript northeastern coop",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Priceline",
+   "title": "Software Engineering - Full Stack - Northeastern Co-op",
+   "locations": [
+    "New York City, NY"
+   ],
+   "url": "https://priceline.wd1.myworkdayjobs.com/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
+   "active": true,
+   "posted": 1788998400000,
+   "season": "",
+   "source": "speedy",
+   "key": "priceline::software engineering full stack northeastern coop",
    "sources": [
     "speedy",
     "zshah"
@@ -20591,7 +20793,7 @@
   },
   {
    "company": "Rocket Lab",
-   "title": "Flight Software Intern Summer 2027",
+   "title": "Flight Software Intern Spring 2027",
    "locations": [
     "Littleton, CO"
    ],
@@ -21516,21 +21718,20 @@
     "Bedford, MA"
    ],
    "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008",
-   "active": true,
+   "active": false,
    "posted": 1788964593000,
    "season": "Summer 2027",
    "source": "simplify",
    "key": "lexington medical::electricalembedded software engineer",
    "sources": [
     "simplify",
-    "speedy",
     "zshah"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 3
+   "sourceCount": 2
   },
   {
    "company": "Navy Federal",
@@ -23406,6 +23607,27 @@
    "sourceCount": 2
   },
   {
+   "company": "Rivian",
+   "title": "Software Engineering Intern - Vehicle Controls - January - August 2027",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f",
+   "active": true,
+   "posted": 1788892391168,
+   "season": "",
+   "source": "speedy",
+   "key": "rivian::software engineering  vehicle controls january august",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Flagship Pioneering",
    "title": "Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)",
    "locations": [
@@ -24798,16 +25020,16 @@
   },
   {
    "company": "Cox",
-   "title": "Software Engineering Intern - Summer 2027 - Draper UT",
+   "title": "Software Engineering Intern - Summer 2027 - Austin - TX",
    "locations": [
-    "Draper, UT"
+    "Austin, TX"
    ],
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
    "active": true,
    "posted": 1788825600000,
    "season": "",
    "source": "speedy",
-   "key": "cox::software engineering    draper ut",
+   "key": "cox::software engineering    austin tx",
    "sources": [
     "speedy",
     "zshah"
@@ -24842,16 +25064,16 @@
   },
   {
    "company": "Cox",
-   "title": "Software Engineering Intern - Summer 2027 - Austin - TX",
+   "title": "Software Engineering Intern - Summer 2027 - Irvine - CA",
    "locations": [
-    "Austin, TX"
+    "Irvine, CA"
    ],
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173",
    "active": true,
    "posted": 1788825600000,
    "season": "",
    "source": "speedy",
-   "key": "cox::software engineering    austin tx",
+   "key": "cox::software engineering    irvine ca",
    "sources": [
     "speedy",
     "zshah"
@@ -24886,38 +25108,16 @@
   },
   {
    "company": "Cox",
-   "title": "Software Engineering Intern - Summer 2027 - Irvine - CA",
+   "title": "Software Engineering Intern - Summer 2027 - Draper UT",
    "locations": [
-    "Irvine, CA"
+    "Draper, UT"
    ],
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169",
    "active": true,
    "posted": 1788825600000,
    "season": "",
    "source": "speedy",
-   "key": "cox::software engineering    irvine ca",
-   "sources": [
-    "speedy",
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "SWBC",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "San Antonio, TX"
-   ],
-   "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
-   "active": true,
-   "posted": 1788825600000,
-   "season": "",
-   "source": "speedy",
-   "key": "swbc::software engineering",
+   "key": "cox::software engineering    draper ut",
    "sources": [
     "speedy",
     "zshah"
@@ -24940,6 +25140,28 @@
    "season": "",
    "source": "speedy",
    "key": "swbc::devops",
+   "sources": [
+    "speedy",
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "SWBC",
+   "title": "Software Engineering Intern",
+   "locations": [
+    "San Antonio, TX"
+   ],
+   "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
+   "active": true,
+   "posted": 1788825600000,
+   "season": "",
+   "source": "speedy",
+   "key": "swbc::software engineering",
    "sources": [
     "speedy",
     "zshah"
@@ -25654,7 +25876,7 @@
     "Austin, TX"
    ],
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1",
-   "active": true,
+   "active": false,
    "posted": 1788739200000,
    "season": "Summer 2027",
    "source": "simplify",
@@ -25838,48 +26060,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Rivian",
-   "title": "Software Engineering Intern - Connected Systems - January - August 2027",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/13eeb795-a5dd-4b5a-9b98-808e5ec357c2",
-   "active": true,
-   "posted": 1788703352288,
-   "season": "",
-   "source": "speedy",
-   "key": "rivian::software engineering  connected systems january august",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Rivian",
-   "title": "Software Engineering Intern - Applications - Infotainment & Mobile - January - August 2027",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69",
-   "active": true,
-   "posted": 1788703352288,
-   "season": "",
-   "source": "speedy",
-   "key": "rivian::software engineering  applications infotainment mobile january august",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Micron Technology",
    "title": "DRAM Test Structure Design and Layout Engineering Intern",
    "locations": [
@@ -25914,6 +26094,48 @@
    "key": "hewlett packard enterprise::hpc ai systems administrator",
    "sources": [
     "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Rivian",
+   "title": "Software Engineering Intern - Applications - Infotainment & Mobile - January - August 2027",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69",
+   "active": true,
+   "posted": 1788633191168,
+   "season": "",
+   "source": "speedy",
+   "key": "rivian::software engineering  applications infotainment mobile january august",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Rivian",
+   "title": "Software Engineering Intern - Connected Systems - January - August 2027",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "url": "https://jobs.ashbyhq.com/rivianvw.tech/13eeb795-a5dd-4b5a-9b98-808e5ec357c2",
+   "active": true,
+   "posted": 1788633191168,
+   "season": "",
+   "source": "speedy",
+   "key": "rivian::software engineering  connected systems january august",
+   "sources": [
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -29213,14 +29435,13 @@
    "source": "simplify",
    "key": "shure::cloud applications development",
    "sources": [
-    "simplify",
-    "speedy"
+    "simplify"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 2
+   "sourceCount": 1
   },
   {
    "company": "Shure",
@@ -29277,14 +29498,13 @@
    "source": "simplify",
    "key": "shure::automated test software engineering",
    "sources": [
-    "simplify",
-    "speedy"
+    "simplify"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 2
+   "sourceCount": 1
   },
   {
    "company": "Shure",
@@ -29384,13 +29604,14 @@
    "source": "simplify",
    "key": "shure::application software development",
    "sources": [
-    "simplify"
+    "simplify",
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
+   "sourceCount": 2
   },
   {
    "company": "Momentive",
@@ -30050,7 +30271,7 @@
    "company": "Sierra Nevada Corporation",
    "title": "Software Engineering Intern - Summer 2027",
    "locations": [
-    "Dayton, OH"
+    "Plano, TX"
    ],
    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754",
    "active": true,
@@ -31600,17 +31821,17 @@
    "sourceCount": 1
   },
   {
-   "company": "CACI",
-   "title": "DevOps/Software Engineering Intern - Summer 2027",
+   "company": "Allied Solutions",
+   "title": "Software Engineering Intern",
    "locations": [
-    "Denver, CO"
+    "Carmel, IN"
    ],
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087",
    "active": true,
    "posted": 1788307200000,
    "season": "",
    "source": "speedy",
-   "key": "caci::devopssoftware engineering",
+   "key": "allied solutions::software engineering",
    "sources": [
     "speedy",
     "zshah"
@@ -31633,28 +31854,6 @@
    "season": "",
    "source": "speedy",
    "key": "allied solutions::software delivery management",
-   "sources": [
-    "speedy",
-    "zshah"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "Allied Solutions",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "Carmel, IN"
-   ],
-   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087",
-   "active": true,
-   "posted": 1788307200000,
-   "season": "",
-   "source": "speedy",
-   "key": "allied solutions::software engineering",
    "sources": [
     "speedy",
     "zshah"
@@ -31720,6 +31919,27 @@
    "season": "Summer 2027",
    "source": "zshah",
    "key": "allied solutions::data science",
+   "sources": [
+    "zshah"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "CACI",
+   "title": "DevOps/Software Engineering Intern - Summer 2027",
+   "locations": [
+    "Denver, CO, US"
+   ],
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+   "active": true,
+   "posted": 1788307200000,
+   "season": "Summer 2027",
+   "source": "zshah",
+   "key": "caci::devopssoftware engineering",
    "sources": [
     "zshah"
    ],
@@ -32880,27 +33100,6 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
-  },
-  {
-   "company": "Google",
-   "title": "Software Engineering Intern - MS - Summer 2027",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
-   "active": true,
-   "posted": 1788271352288,
-   "season": "",
-   "source": "speedy",
-   "key": "google::software engineering  ms",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "google-asdi",
-   "firmName": "Google ASDI",
-   "hot": false,
-   "sourceCount": 1
   },
   {
    "company": "ZS",
@@ -34605,20 +34804,19 @@
     "Boise, ID"
    ],
    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Salesforce-Developer-Intern_R12215",
-   "active": true,
+   "active": false,
    "posted": 1788220800000,
    "season": "Winter 2026",
    "source": "simplify",
    "key": "clearwater analytics::salesforce developer",
    "sources": [
-    "simplify",
-    "speedy"
+    "simplify"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 2
+   "sourceCount": 1
   },
   {
    "company": "Protech Automotive Solutions",
@@ -35327,16 +35525,16 @@
   },
   {
    "company": "US Foods",
-   "title": "Intern - Software Engineer - Digital Commerce - Hybrid: Onsite & Remote",
+   "title": "Intern - Software Engineer - Legacy Systems - Hybrid: Onsite & Remote",
    "locations": [
     "Rosemont, IL"
    ],
-   "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111",
+   "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106",
    "active": true,
    "posted": 1788220800000,
    "season": "",
    "source": "speedy",
-   "key": "us foods::software engineer digital commerce hybrid onsite remote",
+   "key": "us foods::software engineer legacy systems hybrid onsite remote",
    "sources": [
     "speedy",
     "zshah"
@@ -35349,16 +35547,16 @@
   },
   {
    "company": "US Foods",
-   "title": "Intern - Software Engineer - Legacy Systems - Hybrid: Onsite & Remote",
+   "title": "Intern - Software Engineer - Digital Commerce - Hybrid: Onsite & Remote",
    "locations": [
     "Rosemont, IL"
    ],
-   "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106",
+   "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111",
    "active": true,
    "posted": 1788220800000,
    "season": "",
    "source": "speedy",
-   "key": "us foods::software engineer legacy systems hybrid onsite remote",
+   "key": "us foods::software engineer digital commerce hybrid onsite remote",
    "sources": [
     "speedy",
     "zshah"
@@ -37080,6 +37278,27 @@
    "sourceCount": 1
   },
   {
+   "company": "Google",
+   "title": "Software Engineering Intern - MS - Summer 2027",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
+   "active": true,
+   "posted": 1788201191168,
+   "season": "",
+   "source": "speedy",
+   "key": "google::software engineering  ms",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "google-asdi",
+   "firmName": "Google ASDI",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
    "company": "Qorvo",
    "title": "Test Characterization Engineer Intern - RF Characterization Engineering",
    "locations": [
@@ -38582,16 +38801,16 @@
   },
   {
    "company": "Stryker",
-   "title": "Summer 2027 Internship - Software Engineering - Michigan",
+   "title": "Summer 2027 Internship - Software Engineering - Florida",
    "locations": [
-    "Portage, MI"
+    "Fort Lauderdale, FL"
    ],
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
    "active": true,
    "posted": 1788134400000,
    "season": "",
    "source": "speedy",
-   "key": "stryker::software engineering michigan",
+   "key": "stryker::software engineering florida",
    "sources": [
     "speedy",
     "zshah"
@@ -38604,16 +38823,16 @@
   },
   {
    "company": "Stryker",
-   "title": "Summer 2027 Internship - Software Engineering - Florida",
+   "title": "Summer 2027 Internship - Software Engineering - Michigan",
    "locations": [
-    "Fort Lauderdale, FL"
+    "Portage, MI"
    ],
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
    "active": true,
    "posted": 1788134400000,
    "season": "",
    "source": "speedy",
-   "key": "stryker::software engineering florida",
+   "key": "stryker::software engineering michigan",
    "sources": [
     "speedy",
     "zshah"
@@ -42391,7 +42610,7 @@
     "NYC"
    ],
    "url": "https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply",
-   "active": true,
+   "active": false,
    "posted": 1787691849000,
    "season": "Fall 2026",
    "source": "simplify",
@@ -42449,48 +42668,6 @@
    "sourceCount": 2
   },
   {
-   "company": "Nokia",
-   "title": "Software Engineer Co-op - Deepfield",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908",
-   "active": false,
-   "posted": 1787682441000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "nokia::software engineer coop deepfield",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "General Dynamics Mission Systems",
-   "title": "Engineering Technician Co-op - Nanoready",
-   "locations": [
-    "Manassas, VA"
-   ],
-   "url": "https://careers-gdms.icims.com/jobs/73841/job?mobile=true&needsRedirect=false",
-   "active": false,
-   "posted": 1787682306000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "general dynamics mission systems::engineering technician coop nanoready",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Verkada",
    "title": "Mobile Software Engineer Intern",
    "locations": [
@@ -42523,30 +42700,6 @@
    "season": "Winter 2027, Summer 2027",
    "source": "simplify",
    "key": "verkada::security software engineer",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Apex Fintech Solutions",
-   "title": "Technology Fintern - Software Engineering - Product Management",
-   "locations": [
-    "Austin, TX",
-    "Dallas, TX",
-    "Chicago, IL",
-    "NYC"
-   ],
-   "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660",
-   "active": false,
-   "posted": 1787681545000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "apex fintech solutions::technology f software engineering product management",
    "sources": [
     "simplify"
    ],
@@ -42619,69 +42772,6 @@
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Celonis",
-   "title": "Engineering Intern",
-   "locations": [
-    "Massachusetts"
-   ],
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
-   "active": false,
-   "posted": 1787671957000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "celonis::engineering",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Bosch Home Comfort",
-   "title": "AI Security Research Intern",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145507908",
-   "active": false,
-   "posted": 1787667120000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "bosch home comfort::ai security research",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Google",
-   "title": "Software Engineering Intern - PhD - Summer 2027",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
-   "active": true,
-   "posted": 1787666552288,
-   "season": "",
-   "source": "speedy",
-   "key": "google::software engineering  phd",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "google-asdi",
-   "firmName": "Google ASDI",
-   "hot": false,
    "sourceCount": 1
   },
   {
@@ -43697,6 +43787,27 @@
    "sourceCount": 1
   },
   {
+   "company": "Google",
+   "title": "Software Engineering Intern - PhD - Summer 2027",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
+   "active": true,
+   "posted": 1787596391168,
+   "season": "",
+   "source": "speedy",
+   "key": "google::software engineering  phd",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "google-asdi",
+   "firmName": "Google ASDI",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
    "company": "SAGE",
    "title": "Software Engineering Intern - Edge - Summer 2027",
    "locations": [
@@ -44552,48 +44663,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Databricks",
-   "title": "Software Engineering Intern - 2027 Start - Winter",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
-   "active": true,
-   "posted": 1787407352288,
-   "season": "",
-   "source": "speedy",
-   "key": "databricks::software engineering   start",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "databricks",
-   "firmName": "Databricks",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7676276048527214901",
-   "active": true,
-   "posted": 1787407352288,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  tiktok ai search visual search infra team",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Analog Devices",
    "title": "Systems Integration Engineer Intern",
    "locations": [
@@ -44723,6 +44792,48 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "Databricks",
+   "title": "Software Engineering Intern - 2027 Start - Winter",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+   "active": true,
+   "posted": 1787337191168,
+   "season": "",
+   "source": "speedy",
+   "key": "databricks::software engineering   start",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "databricks",
+   "firmName": "Databricks",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7676276048527214901",
+   "active": true,
+   "posted": 1787337191168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  tiktok ai search visual search infra team",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
   },
   {
    "company": "H3X Technologies",
@@ -45875,69 +45986,6 @@
    "sourceCount": 2
   },
   {
-   "company": "NVIDIA",
-   "title": "NVIDIA 2027 Internships: Software Engineering",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
-   "active": true,
-   "posted": 1787234552288,
-   "season": "",
-   "source": "speedy",
-   "key": "nvidia::nvidia  s software engineering",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "nvidia",
-   "firmName": "NVIDIA",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "NVIDIA",
-   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
-   "active": true,
-   "posted": 1787234552288,
-   "season": "",
-   "source": "speedy",
-   "key": "nvidia::nvidia   s developer and performance technology",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "nvidia",
-   "firmName": "NVIDIA",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "NVIDIA",
-   "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
-   "active": true,
-   "posted": 1787234552288,
-   "season": "",
-   "source": "speedy",
-   "key": "nvidia::nvidia  s systems software engineering",
-   "sources": [
-    "speedy"
-   ],
-   "watched": true,
-   "firmId": "nvidia",
-   "firmName": "NVIDIA",
-   "hot": false,
-   "sourceCount": 1
-  },
-  {
    "company": "AbbVie",
    "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
    "locations": [
@@ -45979,28 +46027,6 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search Architecture",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7675517686256863541",
-   "active": true,
-   "posted": 1787190346000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::software engineer  tiktok search architecture",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
   },
   {
    "company": "Epic Games",
@@ -46382,14 +46408,13 @@
    "source": "simplify",
    "key": "specialisterne::software engineer  neurodiversity hiring initiative",
    "sources": [
-    "simplify",
-    "speedy"
+    "simplify"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 2
+   "sourceCount": 1
   },
   {
    "company": "General Matter",
@@ -46504,16 +46529,16 @@
   },
   {
    "company": "TikTok",
-   "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+   "title": "Software Engineer Intern - TikTok Search Architecture",
    "locations": [
     "San Jose, CA"
    ],
-   "url": "https://lifeattiktok.com/search/7675159726676101381",
+   "url": "https://lifeattiktok.com/search/7675517686256863541",
    "active": true,
-   "posted": 1787148152288,
+   "posted": 1787164391168,
    "season": "Summer 2027",
    "source": "simplify",
-   "key": "tiktok::software engineer  recommendation infra performance efficiency",
+   "key": "tiktok::software engineer  tiktok search architecture",
    "sources": [
     "simplify",
     "speedy"
@@ -46523,6 +46548,69 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "NVIDIA",
+   "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+   "active": true,
+   "posted": 1787164391168,
+   "season": "",
+   "source": "speedy",
+   "key": "nvidia::nvidia   s developer and performance technology",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "nvidia",
+   "firmName": "NVIDIA",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
+   "company": "NVIDIA",
+   "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+   "active": true,
+   "posted": 1787164391168,
+   "season": "",
+   "source": "speedy",
+   "key": "nvidia::nvidia  s systems software engineering",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "nvidia",
+   "firmName": "NVIDIA",
+   "hot": false,
+   "sourceCount": 1
+  },
+  {
+   "company": "NVIDIA",
+   "title": "NVIDIA 2027 Internships: Software Engineering",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+   "active": true,
+   "posted": 1787164391168,
+   "season": "",
+   "source": "speedy",
+   "key": "nvidia::nvidia  s software engineering",
+   "sources": [
+    "speedy"
+   ],
+   "watched": true,
+   "firmId": "nvidia",
+   "firmName": "NVIDIA",
+   "hot": false,
+   "sourceCount": 1
   },
   {
    "company": "ByteDance",
@@ -46822,6 +46910,28 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7675159726676101381",
+   "active": true,
+   "posted": 1787077991168,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::software engineer  recommendation infra performance efficiency",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
   },
   {
    "company": "TikTok",
@@ -48164,16 +48274,16 @@
   },
   {
    "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+   "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
    "locations": [
-    "NYC"
+    "Dallas, TX"
    ],
-   "url": "https://higher.gs.com/roles/171547?type=students",
+   "url": "https://higher.gs.com/roles/171548?type=students",
    "active": true,
-   "posted": 1786767952000,
+   "posted": 1786767953000,
    "season": "Summer 2027",
    "source": "simplify",
-   "key": "goldman sachs::analyst  americas investment banking quantitative strats",
+   "key": "goldman sachs::quantitative strats analyst  americas investment banking",
    "sources": [
     "simplify"
    ],
@@ -48185,16 +48295,121 @@
   },
   {
    "company": "Goldman Sachs",
-   "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+   "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
    "locations": [
     "Salt Lake City, UT"
    ],
-   "url": "https://higher.gs.com/roles/171549?type=students",
+   "url": "https://higher.gs.com/roles/171551?type=students",
+   "active": true,
+   "posted": 1786767952000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "goldman sachs::quantitative strategist  americas the core quantitative strats",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - Engineering",
+   "locations": [
+    "NYC"
+   ],
+   "url": "https://higher.gs.com/roles/171564?type=students",
+   "active": true,
+   "posted": 1786767952000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "goldman sachs::analyst  americas engineering",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Americas",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "url": "https://higher.gs.com/roles/171532?type=students",
+   "active": true,
+   "posted": 1786767952000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "goldman sachs::quantitative strategist  americas",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Intern - Multiple Teams",
+   "locations": [
+    "NYC"
+   ],
+   "url": "https://higher.gs.com/roles/171563?type=students",
+   "active": true,
+   "posted": 1786767951000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "goldman sachs::quantitative strategist  multiple teams",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+   "locations": [
+    "NYC"
+   ],
+   "url": "https://higher.gs.com/roles/171535?type=students",
+   "active": true,
+   "posted": 1786767947000,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "goldman sachs::quantitative strategist associate  the core quantitative strats",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Associate Intern - The Core Quantitative Strats",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "url": "https://higher.gs.com/roles/171546?type=students",
    "active": true,
    "posted": 1786767946000,
    "season": "Summer 2027",
    "source": "simplify",
-   "key": "goldman sachs::quantitative strategist  asset and wealth management quantitative strats",
+   "key": "goldman sachs::associate  the core quantitative strats",
    "sources": [
     "simplify"
    ],
@@ -48764,28 +48979,6 @@
    "sourceCount": 1
   },
   {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7672926068681951493",
-   "active": true,
-   "posted": 1786629752288,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::software engineer  recommendation architecture feeds infrastructure",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
    "company": "InfiniteQuant",
    "title": "Quantitative Developer Intern - Summer 2027",
    "locations": [
@@ -49171,6 +49364,28 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7672926068681951493",
+   "active": true,
+   "posted": 1786559591168,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::software engineer  recommendation architecture feeds infrastructure",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
   },
   {
    "company": "TikTok",
@@ -50239,28 +50454,6 @@
    "sourceCount": 1
   },
   {
-   "company": "TikTok",
-   "title": "Frontend Engineer Intern - Ads Interface",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7671211313289398581",
-   "active": true,
-   "posted": 1786141165000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::frontend engineer  ads interface",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
    "company": "Belvedere Trading",
    "title": "Quantitative Trading Intern - Winter Quarter 2027",
    "locations": [
@@ -50280,6 +50473,28 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Frontend Engineer Intern - Ads Interface",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7671211313289398581",
+   "active": true,
+   "posted": 1786127591168,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::frontend engineer  ads interface",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
   },
   {
    "company": "The Nuclear Company",
@@ -50368,49 +50583,6 @@
    "sourceCount": 1
   },
   {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Global E-commerce-Search",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7670839727059339525",
-   "active": true,
-   "posted": 1786111352289,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::software engineer  global ecommercesearch",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
-   "title": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7670874691332212997",
-   "active": true,
-   "posted": 1786111352289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::site reliability engineer  global sre",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Terranova",
    "title": "Software Engineer Intern",
    "locations": [
@@ -50451,28 +50623,6 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Fullstack Software Engineer Intern - Global E-Commerce",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7670700387322300677",
-   "active": true,
-   "posted": 1786065501000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::fullstack software engineer  global ecommerce",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
   },
   {
    "company": "ByteDance",
@@ -50648,6 +50798,71 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Fullstack Software Engineer Intern - Global E-Commerce",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7670700387322300677",
+   "active": true,
+   "posted": 1786041191168,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::fullstack software engineer  global ecommerce",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Global E-commerce-Search",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7670839727059339525",
+   "active": true,
+   "posted": 1786041191168,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::software engineer  global ecommercesearch",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7670874691332212997",
+   "active": true,
+   "posted": 1786041191168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::site reliability engineer  global sre",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
   },
   {
    "company": "Shopify",
@@ -50880,50 +51095,6 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Foundation Platform",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7670281449668905269",
-   "active": true,
-   "posted": 1785981287000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::software engineer  foundation platform",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Media Engine",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7670295535077427509",
-   "active": true,
-   "posted": 1785979104000,
-   "season": "Summer 2027",
-   "source": "simplify",
-   "key": "tiktok::software engineer  media engine",
-   "sources": [
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
   },
   {
    "company": "ByteDance",
@@ -51176,6 +51347,50 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Media Engine",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7670295535077427509",
+   "active": true,
+   "posted": 1785954791168,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::software engineer  media engine",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Foundation Platform",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7670281449668905269",
+   "active": true,
+   "posted": 1785954791168,
+   "season": "Summer 2027",
+   "source": "simplify",
+   "key": "tiktok::software engineer  foundation platform",
+   "sources": [
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
   },
   {
    "company": "Roblox",
@@ -51470,14 +51685,13 @@
    "key": "draper::embedded quality fielded systems",
    "sources": [
     "vansh",
-    "speedy",
     "zshah"
    ],
    "watched": false,
    "firmId": null,
    "firmName": null,
    "hot": null,
-   "sourceCount": 3
+   "sourceCount": 2
   },
   {
    "company": "Northrop Grumman",
@@ -52033,28 +52247,6 @@
   },
   {
    "company": "TikTok",
-   "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7669712589169117445",
-   "active": true,
-   "posted": 1785852152289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  ai agent global revenue platform",
-   "sources": [
-    "vansh",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
    "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch",
    "locations": [
     "San Jose, CA"
@@ -52073,29 +52265,6 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Frontend Engineer Intern, Global CRM",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7669711026846058757",
-   "active": true,
-   "posted": 1785835212000,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::frontend engineer  global crm",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
   },
   {
    "company": "TikTok",
@@ -52482,52 +52651,6 @@
   },
   {
    "company": "TikTok",
-   "title": "Software Engineer Intern, Ads Interface",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7669705785962727733",
-   "active": true,
-   "posted": 1785824408000,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  ads interface",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Global CRM",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7669711844487399685",
-   "active": true,
-   "posted": 1785824407000,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  global crm",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
    "title": "Machine Learning Engineer Intern - Commercial AI-CRM and Transaction",
    "locations": [
     "San Jose, CA"
@@ -52833,6 +52956,97 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Frontend Engineer Intern, Global CRM",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7669711026846058757",
+   "active": true,
+   "posted": 1785781991168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::frontend engineer  global crm",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7669712589169117445",
+   "active": true,
+   "posted": 1785781991168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  ai agent global revenue platform",
+   "sources": [
+    "vansh",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Ads Interface",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7669705785962727733",
+   "active": true,
+   "posted": 1785781991168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  ads interface",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Global CRM",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7669711844487399685",
+   "active": true,
+   "posted": 1785781991168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  global crm",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
   },
   {
    "company": "TikTok",
@@ -54167,113 +54381,6 @@
    "sourceCount": 2
   },
   {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern, Global E-Commerce",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668834837268138293",
-   "active": true,
-   "posted": 1785679352289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::backend software engineer  global ecommerce",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok - Shoot Experience Optimization - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668921505254410549",
-   "active": true,
-   "posted": 1785679352289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  tiktok shoot experience optimization",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok-Intelligent Creation-Camera - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668862422178318597",
-   "active": true,
-   "posted": 1785679352289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  tiktokintelligent creationcamera",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668837276597127477",
-   "active": true,
-   "posted": 1785679352289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software development engineer  global ecommercequality platform ai test automation",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Development Engineer Intern - Global E-Commerce - Quality Platform & AI Test Automation - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668837275459324213",
-   "active": true,
-   "posted": 1785679352289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software development engineer  global ecommerce quality platform ai test automation",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Two Sigma",
    "title": "AI Research Scientist Intern - 2027 Summer",
    "locations": [
@@ -54337,6 +54444,113 @@
    "sourceCount": 1
   },
   {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern, Global E-Commerce",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668834837268138293",
+   "active": true,
+   "posted": 1785609191168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::backend software engineer  global ecommerce",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok - Shoot Experience Optimization - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668921505254410549",
+   "active": true,
+   "posted": 1785609191168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  tiktok shoot experience optimization",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok-Intelligent Creation-Camera - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668862422178318597",
+   "active": true,
+   "posted": 1785609191168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  tiktokintelligent creationcamera",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668837276597127477",
+   "active": true,
+   "posted": 1785609191168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software development engineer  global ecommercequality platform ai test automation",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Development Engineer Intern - Global E-Commerce - Quality Platform & AI Test Automation - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668837275459324213",
+   "active": true,
+   "posted": 1785609191168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software development engineer  global ecommerce quality platform ai test automation",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "HPR (Hyannis Port Research)",
    "title": "Software Engineering Intern - Summer 2027",
    "locations": [
@@ -54355,226 +54569,6 @@
    "firmId": "hpr",
    "firmName": "HPR",
    "hot": false,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Data Arch - E-commerce",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668582146236631349",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  data arch ecommerce",
-   "sources": [
-    "vansh",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Business Integrity",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668584916620527925",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  business integrity",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668642761473902901",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  creative intelligence and brand innovation",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668582031916435717",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  ads measurement signal and privacy",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668584161852229893",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::frontend software engineer  ads measurement signal and privacy",
-   "sources": [
-    "vansh",
-    "simplify",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 3
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668675500744837381",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  tiktokagentic creationaigc",
-   "sources": [
-    "vansh",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok-Agentic Creation-Effect Platform - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668445566565321013",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  tiktokagentic creationeffect platform",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok - Effects Performance - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668725183121000757",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  tiktok effects performance",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - ML Infra - 2027 Start - PhD",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668696895234197813",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  ml infra  start phd",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Ads Infrastructure - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7668581636242016565",
-   "active": true,
-   "posted": 1785592952289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  ads infrastructure",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
    "sourceCount": 1
   },
   {
@@ -54766,6 +54760,226 @@
    "key": "sk hynix memory solution::software engineer",
    "sources": [
     "vansh"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Data Arch - E-commerce",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668582146236631349",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  data arch ecommerce",
+   "sources": [
+    "vansh",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Business Integrity",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668584916620527925",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  business integrity",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668642761473902901",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  creative intelligence and brand innovation",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668582031916435717",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  ads measurement signal and privacy",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668584161852229893",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::frontend software engineer  ads measurement signal and privacy",
+   "sources": [
+    "vansh",
+    "simplify",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 3
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668675500744837381",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  tiktokagentic creationaigc",
+   "sources": [
+    "vansh",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok-Agentic Creation-Effect Platform - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668445566565321013",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  tiktokagentic creationeffect platform",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok - Effects Performance - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668725183121000757",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  tiktok effects performance",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - ML Infra - 2027 Start - PhD",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668696895234197813",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  ml infra  start phd",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Ads Infrastructure - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7668581636242016565",
+   "active": true,
+   "posted": 1785522791168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  ads infrastructure",
+   "sources": [
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -54994,259 +55208,6 @@
    "sourceCount": 1
   },
   {
-   "company": "TikTok",
-   "title": "Software Engineer Intern, TikTok-Social-Friending",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667935399050692917",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "Summer",
-   "source": "vansh",
-   "key": "tiktok::software engineer  tiktoksocialfriending",
-   "sources": [
-    "vansh",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok-Privacy and Security - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667935739300317493",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktokprivacy and security",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok-Generalized Arch-Code Intelligence & Quality Validation - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667935738376227077",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  tiktokgeneralized archcode intelligence quality validation",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok- Developer Platform - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667935739300792629",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer  tiktok developer platform",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok - Product Infrastructure - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667935633764370741",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktok product infrastructure",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok-Social-Foundation - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667935565120112949",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktoksocialfoundation",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok-Global Live-Foundation - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667935150530840837",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktokglobal livefoundation",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok-Growth-Innovative Growth - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667934860750063925",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktokgrowthinnovative growth",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667934759481526581",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software development engineer in test tiktoktesting",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok-Social-Friending - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667934635573692725",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktoksocialfriending",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok- PGC-Digital Content Center - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667934302872537397",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktok pgcdigital content center",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Backend Software Engineer Intern - TikTok-Search - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7667933335084124469",
-   "active": true,
-   "posted": 1785420152289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::backend software engineer  tiktoksearch",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Forus",
    "title": "Engineer Intern",
    "locations": [
@@ -55281,6 +55242,259 @@
    "key": "tesla::software engineer  software engineer ai infrastructure",
    "sources": [
     "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern, TikTok-Social-Friending",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667935399050692917",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "Summer",
+   "source": "vansh",
+   "key": "tiktok::software engineer  tiktoksocialfriending",
+   "sources": [
+    "vansh",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok-Generalized Arch-Code Intelligence & Quality Validation - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667935738376227077",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  tiktokgeneralized archcode intelligence quality validation",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok- Developer Platform - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667935739300792629",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer  tiktok developer platform",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok-Privacy and Security - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667935739300317493",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktokprivacy and security",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok - Product Infrastructure - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667935633764370741",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktok product infrastructure",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok-Social-Foundation - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667935565120112949",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktoksocialfoundation",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok-Global Live-Foundation - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667935150530840837",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktokglobal livefoundation",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok-Growth-Innovative Growth - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667934860750063925",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktokgrowthinnovative growth",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667934759481526581",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software development engineer in test tiktoktesting",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok-Social-Friending - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667934635573692725",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktoksocialfriending",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok- PGC-Digital Content Center - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667934302872537397",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktok pgcdigital content center",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - TikTok-Search - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7667933335084124469",
+   "active": true,
+   "posted": 1785349991168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::backend software engineer  tiktoksearch",
+   "sources": [
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -57938,90 +58152,6 @@
    "sourceCount": 1
   },
   {
-   "company": "TikTok",
-   "title": "General Hire Software Engineer Intern - Trust and Safety-Engineering - 2027 Summer",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7662700594251958581",
-   "active": true,
-   "posted": 1784210552289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::general hire software engineer  trust and safetyengineering",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "TikTok",
-   "title": "Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "url": "https://lifeattiktok.com/search/7662594807715072261",
-   "active": true,
-   "posted": 1784210552289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::software engineer project  global ecommerce search infrastructure  start",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Citadel",
-   "title": "Software Engineer - Intern - US",
-   "locations": [
-    "Houston, TX"
-   ],
-   "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-   "active": true,
-   "posted": 1784210552289,
-   "season": "",
-   "source": "speedy",
-   "key": "citadel::software engineer  us",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Citadel Securities",
-   "title": "Software Engineer - Intern - US",
-   "locations": [
-    "Miami, FL"
-   ],
-   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
-   "active": true,
-   "posted": 1784210552289,
-   "season": "",
-   "source": "speedy",
-   "key": "citadel securities::software engineer  us",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Cybernetic Labs",
    "title": "Software Engineer Intern - Agent Platform",
    "locations": [
@@ -58253,6 +58383,90 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Project Intern - Global E-Commerce Search Infrastructure - 2026 Start",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "https://lifeattiktok.com/search/7662594807715072261",
+   "active": true,
+   "posted": 1784140391168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::software engineer project  global ecommerce search infrastructure  start",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "TikTok",
+   "title": "General Hire Software Engineer Intern - Trust and Safety-Engineering - 2027 Summer",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7662700594251958581",
+   "active": true,
+   "posted": 1784140391168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::general hire software engineer  trust and safetyengineering",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Citadel",
+   "title": "Software Engineer - Intern - US",
+   "locations": [
+    "Houston, TX"
+   ],
+   "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+   "active": true,
+   "posted": 1784140391168,
+   "season": "",
+   "source": "speedy",
+   "key": "citadel::software engineer  us",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Citadel Securities",
+   "title": "Software Engineer - Intern - US",
+   "locations": [
+    "Miami, FL"
+   ],
+   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+   "active": true,
+   "posted": 1784140391168,
+   "season": "",
+   "source": "speedy",
+   "key": "citadel securities::software engineer  us",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
   },
   {
    "company": "Old Mission Capital",
@@ -59098,27 +59312,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Jump Trading",
-   "title": "Campus Software Engineer - Intern",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-   "active": true,
-   "posted": 1783692152289,
-   "season": "",
-   "source": "speedy",
-   "key": "jump trading::campus software engineer",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Tesla",
    "title": "Software Engineer Intern - Energy Engineering",
    "locations": [
@@ -59290,6 +59483,27 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "Jump Trading",
+   "title": "Campus Software Engineer - Intern",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+   "active": true,
+   "posted": 1783621991168,
+   "season": "",
+   "source": "speedy",
+   "key": "jump trading::campus software engineer",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
   },
   {
    "company": "CACI",
@@ -59771,49 +59985,6 @@
    "sourceCount": 3
   },
   {
-   "company": "Jane Street",
-   "title": "Software Engineer Intern",
-   "locations": [
-    "New York, NY"
-   ],
-   "url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
-   "active": true,
-   "posted": 1783519352289,
-   "season": "Spring",
-   "source": "vansh",
-   "key": "jane street::software engineer",
-   "sources": [
-    "vansh",
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 2
-  },
-  {
-   "company": "Jane Street",
-   "title": "Software Engineer Winter Co-Op",
-   "locations": [
-    "New York City, NY"
-   ],
-   "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
-   "active": true,
-   "posted": 1783519352289,
-   "season": "",
-   "source": "speedy",
-   "key": "jane street::software engineer  coop",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Northrop Grumman",
    "title": "Software Engineer Intern",
    "locations": [
@@ -59915,6 +60086,49 @@
    "key": "citadel::quantitative trader equity quantitative research",
    "sources": [
     "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Jane Street",
+   "title": "Software Engineer Intern",
+   "locations": [
+    "New York, NY"
+   ],
+   "url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+   "active": true,
+   "posted": 1783449191169,
+   "season": "Spring",
+   "source": "vansh",
+   "key": "jane street::software engineer",
+   "sources": [
+    "vansh",
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 2
+  },
+  {
+   "company": "Jane Street",
+   "title": "Software Engineer Winter Co-Op",
+   "locations": [
+    "New York City, NY"
+   ],
+   "url": "https://www.janestreet.com/join-jane-street/position/8419303002",
+   "active": true,
+   "posted": 1783449191169,
+   "season": "",
+   "source": "speedy",
+   "key": "jane street::software engineer  coop",
+   "sources": [
+    "speedy"
    ],
    "watched": false,
    "firmId": null,
@@ -60398,6 +60612,27 @@
    "sourceCount": 1
   },
   {
+   "company": "X Development",
+   "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "url": "https://x.company/careers/8616839002?gh_jid=8616839002",
+   "active": true,
+   "posted": 1783031441000,
+   "season": "Fall 2026",
+   "source": "simplify",
+   "key": "x development::phd residency  physical ml hardwareintheloop future of compute",
+   "sources": [
+    "simplify"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Optiver",
    "title": "Software Engineer Intern - Summer 2027 - Austin",
    "locations": [
@@ -60405,7 +60640,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
    "active": true,
-   "posted": 1783087352289,
+   "posted": 1783017191169,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    austin",
@@ -60426,7 +60661,7 @@
    ],
    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
    "active": true,
-   "posted": 1783087352289,
+   "posted": 1783017191169,
    "season": "",
    "source": "speedy",
    "key": "optiver::software engineer    chicago",
@@ -60437,27 +60672,6 @@
    "firmId": "optiver",
    "firmName": "Optiver",
    "hot": true,
-   "sourceCount": 1
-  },
-  {
-   "company": "X Development",
-   "title": "PhD Residency Intern - Physical ML & Hardware-in-the-Loop - Future of Compute",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "url": "https://x.company/careers/8616839002?gh_jid=8616839002",
-   "active": true,
-   "posted": 1783031441000,
-   "season": "Fall 2026",
-   "source": "simplify",
-   "key": "x development::phd residency  physical ml hardwareintheloop future of compute",
-   "sources": [
-    "simplify"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
    "sourceCount": 1
   },
   {
@@ -62736,27 +62950,6 @@
    "sourceCount": 1
   },
   {
-   "company": "TikTok",
-   "title": "AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "url": "https://lifeattiktok.com/search/7646621925436131637",
-   "active": true,
-   "posted": 1780495352289,
-   "season": "",
-   "source": "speedy",
-   "key": "tiktok::ai software engineer project  transaction platform  start bsms",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Zipline",
    "title": "Perception Intern",
    "locations": [
@@ -62799,6 +62992,27 @@
    "firmName": null,
    "hot": null,
    "sourceCount": 2
+  },
+  {
+   "company": "TikTok",
+   "title": "AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://lifeattiktok.com/search/7646621925436131637",
+   "active": true,
+   "posted": 1780425191168,
+   "season": "",
+   "source": "speedy",
+   "key": "tiktok::ai software engineer project  transaction platform  start bsms",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
   },
   {
    "company": "TransMarket Group",
@@ -67607,7 +67821,7 @@
   },
   {
    "company": "Astranis Space Technologies",
-   "title": "Flight Software Intern - Winter 2027",
+   "title": "Software Defined Radio Hardware Intern - Winter 2027",
    "locations": [
     "San Francisco, CA"
    ],
@@ -67616,7 +67830,49 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "astranis space technologies::flight software",
+   "key": "astranis space technologies::software defined radio hardware",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Franklin Electric",
+   "title": "Fall 2027 Electrical/Software Engineering Co-op",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "franklin electric::electricalsoftware engineering coop",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Waymo",
+   "title": "2027 Summer Intern - MS/PhD - Software Engineer",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "waymo::msphd software engineer",
    "sources": [
     "speedy"
    ],
@@ -67628,7 +67884,7 @@
   },
   {
    "company": "Astranis Space Technologies",
-   "title": "Software Engineer Backend Intern - Summer 2027",
+   "title": "Flight Software Intern - Winter 2027",
    "locations": [
     "San Francisco, CA"
    ],
@@ -67637,7 +67893,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "astranis space technologies::software engineer backend",
+   "key": "astranis space technologies::flight software",
    "sources": [
     "speedy"
    ],
@@ -67680,6 +67936,69 @@
    "season": "",
    "source": "speedy",
    "key": "formlabs::desktop software",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "GDIT",
+   "title": "GDIT Summer Internship Program - Summer 2027 Generative AI Software Development Internship",
+   "locations": [
+    "Bossier City, LA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "gdit::gdit   program   generative ai software development",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "GDIT",
+   "title": "GDIT Summer Internship Program - Summer 2027 Software Development Internship",
+   "locations": [
+    "Bossier City, LA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "gdit::gdit   program   software development",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Insulet",
+   "title": "Intern - DevOps Engineer: June-August 2027 - Onsite",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "insulet::devops engineer juneaugust  onsite",
    "sources": [
     "speedy"
    ],
@@ -67817,7 +68136,7 @@
   },
   {
    "company": "PrizePicks",
-   "title": "Software Engineering Internship - Summer 2027",
+   "title": "Software Engineering Internship - Spring 2027",
    "locations": [
     "Atlanta, GA"
    ],
@@ -67900,6 +68219,27 @@
    "sourceCount": 1
   },
   {
+   "company": "Symbotic",
+   "title": "Intern- Software Engineer",
+   "locations": [
+    "Wilmington, MA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "symbotic::software engineer",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Tanium",
    "title": "Cloud Security Intern",
    "locations": [
@@ -67943,7 +68283,7 @@
   },
   {
    "company": "Waymo",
-   "title": "2027 Summer Intern - MS/PhD - Software/ML Engineer - Simulation",
+   "title": "2027 Summer Intern - MS/PhD - Software Engineer - Simulation Evaluation ML Model",
    "locations": [
     "Mountain View, CA"
    ],
@@ -67952,7 +68292,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "waymo::msphd softwareml engineer simulation",
+   "key": "waymo::msphd software engineer simulation evaluation ml model",
    "sources": [
     "speedy"
    ],
@@ -67964,7 +68304,7 @@
   },
   {
    "company": "Waymo",
-   "title": "2027 Summer Intern - MS/PhD - Software Engineer - Simulation Evaluation ML Model",
+   "title": "2027 Summer Intern - MS/PhD - Software/ML Engineer - Simulation",
    "locations": [
     "Mountain View, CA"
    ],
@@ -67973,7 +68313,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "waymo::msphd software engineer simulation evaluation ml model",
+   "key": "waymo::msphd softwareml engineer simulation",
    "sources": [
     "speedy"
    ],
@@ -68142,27 +68482,6 @@
    "season": "",
    "source": "speedy",
    "key": "rentvision::software engineering",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "SRI International",
-   "title": "Drexel University Co-op: Embedded Software Engineering",
-   "locations": [
-    "Princeton, NJ"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "sri international::drexel university coop embedded software engineering",
    "sources": [
     "speedy"
    ],
@@ -68383,6 +68702,48 @@
    "sourceCount": 1
   },
   {
+   "company": "Gordon Food Service Canada",
+   "title": "Software Engineer Internship",
+   "locations": [
+    "Wyoming, MI"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "gordon food service canada::software engineer",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Gordon Food Service Canada",
+   "title": "Software Engineer Intern - Low Code",
+   "locations": [
+    "Wyoming, MI"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "gordon food service canada::software engineer  low code",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "OCC",
    "title": "Year-Round Intern - Cloud Engineering",
    "locations": [
@@ -68447,7 +68808,7 @@
   },
   {
    "company": "Berkley Insurance",
-   "title": "Dynamics Admin/Developer Intern",
+   "title": "Software Developer - Java Intern - June 2027",
    "locations": [
     "Urbandale, IA"
    ],
@@ -68456,7 +68817,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "berkley insurance::dynamics admindeveloper",
+   "key": "berkley insurance::software developer java  june",
    "sources": [
     "speedy"
    ],
@@ -68468,7 +68829,7 @@
   },
   {
    "company": "Berkley Insurance",
-   "title": "Software Developer - Java Intern - June 2027",
+   "title": "Dynamics Admin/Developer Intern",
    "locations": [
     "Urbandale, IA"
    ],
@@ -68477,7 +68838,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "berkley insurance::software developer java  june",
+   "key": "berkley insurance::dynamics admindeveloper",
    "sources": [
     "speedy"
    ],
@@ -68594,7 +68955,7 @@
   },
   {
    "company": "Lennox",
-   "title": "AI-Enabled Full-Stack Software Engineering Intern",
+   "title": "Cloud Advance Admin/Developer Intern",
    "locations": [
     "Richardson, TX"
    ],
@@ -68603,7 +68964,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "lennox::aienabled fullstack software engineering",
+   "key": "lennox::cloud advance admindeveloper",
    "sources": [
     "speedy"
    ],
@@ -68615,7 +68976,7 @@
   },
   {
    "company": "Lennox",
-   "title": "Cloud Advance Admin/Developer Intern",
+   "title": "AI-Enabled Full-Stack Software Engineering Intern",
    "locations": [
     "Richardson, TX"
    ],
@@ -68624,7 +68985,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "lennox::cloud advance admindeveloper",
+   "key": "lennox::aienabled fullstack software engineering",
    "sources": [
     "speedy"
    ],
@@ -68678,7 +69039,7 @@
   },
   {
    "company": "Antares",
-   "title": "Multiphysics Software Intern - Summer 2027",
+   "title": "Reactor Software Engineering Intern - Summer 2027",
    "locations": [
     "Los Angeles, CA"
    ],
@@ -68687,7 +69048,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "antares::multiphysics software",
+   "key": "antares::reactor software engineering",
    "sources": [
     "speedy"
    ],
@@ -68699,7 +69060,7 @@
   },
   {
    "company": "Antares",
-   "title": "Reactor Software Engineering Intern - Summer 2027",
+   "title": "Multiphysics Software Intern - Summer 2027",
    "locations": [
     "Los Angeles, CA"
    ],
@@ -68708,7 +69069,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "antares::reactor software engineering",
+   "key": "antares::multiphysics software",
    "sources": [
     "speedy"
    ],
@@ -68856,6 +69217,27 @@
    "season": "",
    "source": "speedy",
    "key": "general dynamics mission systems::cybersecurity software  engineer",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Gordon Food Service Canada",
+   "title": "Cloud DevOps Internship",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "gordon food service canada::cloud devops",
    "sources": [
     "speedy"
    ],
@@ -69476,7 +69858,7 @@
   },
   {
    "company": "Motorola Solutions",
-   "title": "2027 Software Engineering Summer Internship",
+   "title": "DSP - Digital Signal Processing Software Engineering Intern - Summer 2027",
    "locations": [
     "Plantation, FL"
    ],
@@ -69485,7 +69867,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "motorola solutions::software engineering",
+   "key": "motorola solutions::dsp digital signal processing software engineering",
    "sources": [
     "speedy"
    ],
@@ -69497,7 +69879,7 @@
   },
   {
    "company": "Motorola Solutions",
-   "title": "DSP - Digital Signal Processing Software Engineering Intern - Summer 2027",
+   "title": "2027 Software Engineering Summer Internship",
    "locations": [
     "Plantation, FL"
    ],
@@ -69506,7 +69888,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "motorola solutions::dsp digital signal processing software engineering",
+   "key": "motorola solutions::software engineering",
    "sources": [
     "speedy"
    ],
@@ -69707,7 +70089,7 @@
   },
   {
    "company": "Insulet",
-   "title": "Co-op - Embedded Software Test Engineering: January-June 2027 - Onsite",
+   "title": "Co-op - Embedded Software Engineering: January-June 2027 - Onsite",
    "locations": [
     "Acton, MA"
    ],
@@ -69716,7 +70098,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "insulet::coop embedded software test engineering januaryjune  onsite",
+   "key": "insulet::coop embedded software engineering januaryjune  onsite",
    "sources": [
     "speedy"
    ],
@@ -69728,7 +70110,7 @@
   },
   {
    "company": "Insulet",
-   "title": "Co-op - Embedded Software Engineering: January-June 2027 - Onsite",
+   "title": "Co-op - Embedded Software Test Engineering: January-June 2027 - Onsite",
    "locations": [
     "Acton, MA"
    ],
@@ -69737,7 +70119,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "insulet::coop embedded software engineering januaryjune  onsite",
+   "key": "insulet::coop embedded software test engineering januaryjune  onsite",
    "sources": [
     "speedy"
    ],
@@ -70148,27 +70530,6 @@
   },
   {
    "company": "Trimble",
-   "title": "Software Engineering Intern",
-   "locations": [
-    "Westminster, CO"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "trimble::software engineering",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Trimble",
    "title": "Hardware/Software Testing Intern",
    "locations": [
     "Westminster, CO"
@@ -70189,8 +70550,29 @@
    "sourceCount": 1
   },
   {
+   "company": "Trimble",
+   "title": "Software Engineering Intern",
+   "locations": [
+    "Westminster, CO"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "trimble::software engineering",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "Vercel",
-   "title": "Software Engineering Intern - Summer '27",
+   "title": "Software Engineering Intern - Winter '27",
    "locations": [
     "San Francisco, CA"
    ],
@@ -70263,27 +70645,6 @@
    "season": "",
    "source": "speedy",
    "key": "juicebox::software engineer",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Apex Technology",
-   "title": "Software Engineering Internship - Test & Automation - Summer 2027",
-   "locations": [
-    "Los Angeles, CA"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "apex technology::software engineering  test automation",
    "sources": [
     "speedy"
    ],
@@ -70483,17 +70844,17 @@
    "sourceCount": 1
   },
   {
-   "company": "Apex Technology",
-   "title": "Software Engineering Internship - Embedded Systems - Spring or Summer 2027",
+   "company": "GPC",
+   "title": "Web Developer Intern",
    "locations": [
-    "Los Angeles, CA"
+    "Birmingham, AL"
    ],
    "url": "",
    "active": true,
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "apex technology::software engineering  embedded systems  or",
+   "key": "gpc::web developer",
    "sources": [
     "speedy"
    ],
@@ -70515,27 +70876,6 @@
    "season": "",
    "source": "speedy",
    "key": "gpc::software engineer qa analyst",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "GPC",
-   "title": "Web Developer Intern",
-   "locations": [
-    "Birmingham, AL"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "gpc::web developer",
    "sources": [
     "speedy"
    ],
@@ -70652,7 +70992,7 @@
   },
   {
    "company": "Western & Southern Financial Group",
-   "title": "Cloud Infrastructure Intern - Full Year 2027",
+   "title": "Software Developer Intern - Agency Systems - Full Year 2027",
    "locations": [
     "Cincinnati, OH"
    ],
@@ -70661,28 +71001,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "western southern financial group::cloud infrastructure  full year",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Western & Southern Financial Group",
-   "title": "Software Automation Testing Intern - Full Year 2027",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "western southern financial group::software automation testing  full year",
+   "key": "western southern financial group::software developer  agency systems full year",
    "sources": [
     "speedy"
    ],
@@ -70715,7 +71034,7 @@
   },
   {
    "company": "Western & Southern Financial Group",
-   "title": "Software Developer Intern - Enterprise Process Management Team - Full Year 2027",
+   "title": "Software Automation Testing Intern - Full Year 2027",
    "locations": [
     "Cincinnati, OH"
    ],
@@ -70724,7 +71043,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "western southern financial group::software developer  enterprise process management team full year",
+   "key": "western southern financial group::software automation testing  full year",
    "sources": [
     "speedy"
    ],
@@ -70736,7 +71055,7 @@
   },
   {
    "company": "Western & Southern Financial Group",
-   "title": "Software Developer Intern - Agency Systems - Full Year 2027",
+   "title": "Cloud Infrastructure Intern - Full Year 2027",
    "locations": [
     "Cincinnati, OH"
    ],
@@ -70745,7 +71064,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "western southern financial group::software developer  agency systems full year",
+   "key": "western southern financial group::cloud infrastructure  full year",
    "sources": [
     "speedy"
    ],
@@ -70756,17 +71075,17 @@
    "sourceCount": 1
   },
   {
-   "company": "Blue Origin",
-   "title": "Summer 2027 Software Developer Internship - Graduate",
+   "company": "Western & Southern Financial Group",
+   "title": "Software Developer Intern - Enterprise Process Management Team - Full Year 2027",
    "locations": [
-    "Seattle, WA"
+    "Cincinnati, OH"
    ],
    "url": "",
    "active": true,
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "blue origin::software developer  graduate",
+   "key": "western southern financial group::software developer  enterprise process management team full year",
    "sources": [
     "speedy"
    ],
@@ -70788,6 +71107,27 @@
    "season": "",
    "source": "speedy",
    "key": "blue origin::avionics software  graduate",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Summer 2027 Software Developer Internship - Graduate",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "blue origin::software developer  graduate",
    "sources": [
     "speedy"
    ],
@@ -70841,7 +71181,7 @@
   },
   {
    "company": "GPC",
-   "title": "Cloud SRE Intern",
+   "title": "Cloud Developer Intern",
    "locations": [
     "Birmingham, AL"
    ],
@@ -70850,7 +71190,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "gpc::cloud sre",
+   "key": "gpc::cloud developer",
    "sources": [
     "speedy"
    ],
@@ -70862,7 +71202,7 @@
   },
   {
    "company": "GPC",
-   "title": "Software Developer Intern",
+   "title": "Customer Software Development Intern",
    "locations": [
     "Birmingham, AL"
    ],
@@ -70871,7 +71211,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "gpc::software developer",
+   "key": "gpc::customer software development",
    "sources": [
     "speedy"
    ],
@@ -70946,27 +71286,6 @@
   },
   {
    "company": "Philips",
-   "title": "Co-op - Software Engineering - APM - Cambridge - MA - Jan - Aug 2027",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "philips::coop software engineering apm cambridge ma jan aug",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "Philips",
    "title": "Co-op - Software Development Engineer - Cambridge - MA - Jan-Aug 2027",
    "locations": [
     "Cambridge, MA"
@@ -70987,10 +71306,31 @@
    "sourceCount": 1
   },
   {
-   "company": "Plexus",
-   "title": "Intern - Software Engineer - Fall 2027",
+   "company": "Philips",
+   "title": "Co-op - Software Engineering - APM - Cambridge - MA - Jan - Aug 2027",
    "locations": [
-    "Neenah, WI"
+    "Cambridge, MA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "philips::coop software engineering apm cambridge ma jan aug",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Plexus",
+   "title": "Intern - Software Engineer - Summer 2027",
+   "locations": [
+    "Raleigh, NC"
    ],
    "url": "",
    "active": true,
@@ -71093,16 +71433,16 @@
   },
   {
    "company": "Stryker",
-   "title": "Summer 2027 Internship - Software Engineering - Indiana",
+   "title": "Summer 2027 Internship - Software Engineering - California",
    "locations": [
-    "Fort Wayne, IN"
+    "San Jose, CA"
    ],
    "url": "",
    "active": true,
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "stryker::software engineering indiana",
+   "key": "stryker::software engineering california",
    "sources": [
     "speedy"
    ],
@@ -71114,16 +71454,16 @@
   },
   {
    "company": "Stryker",
-   "title": "Summer 2027 Internship - Software Engineering - California",
+   "title": "Summer 2027 Internship - Software Engineering - Indiana",
    "locations": [
-    "San Jose, CA"
+    "Fort Wayne, IN"
    ],
    "url": "",
    "active": true,
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "stryker::software engineering california",
+   "key": "stryker::software engineering indiana",
    "sources": [
     "speedy"
    ],
@@ -71240,7 +71580,7 @@
   },
   {
    "company": "Hewlett Packard Enterprise",
-   "title": "Software Engineer Intern",
+   "title": "Firmware Engineer Intern",
    "locations": [
     "Spring, TX"
    ],
@@ -71249,7 +71589,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "hewlett packard enterprise::software engineer",
+   "key": "hewlett packard enterprise::firmware engineer",
    "sources": [
     "speedy"
    ],
@@ -71261,7 +71601,7 @@
   },
   {
    "company": "Hewlett Packard Enterprise",
-   "title": "Firmware Engineer Intern",
+   "title": "Software Engineer Intern",
    "locations": [
     "Spring, TX"
    ],
@@ -71270,7 +71610,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "hewlett packard enterprise::firmware engineer",
+   "key": "hewlett packard enterprise::software engineer",
    "sources": [
     "speedy"
    ],
@@ -71408,48 +71748,6 @@
   },
   {
    "company": "MORSE Corp Co-op Opportunities",
-   "title": "Python Software Engineer Co-op",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "morse corp coop opportunities::python software engineer coop",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "MORSE Corp Co-op Opportunities",
-   "title": "Embedded Software Engineer Co-op",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "morse corp coop opportunities::embedded software engineer coop",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
-   "company": "MORSE Corp Co-op Opportunities",
    "title": "Embedded Software Engineer Graduate Co-op",
    "locations": [
     "Cambridge, MA"
@@ -71460,6 +71758,48 @@
    "season": "",
    "source": "speedy",
    "key": "morse corp coop opportunities::embedded software engineer graduate coop",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "MORSE Corp Co-op Opportunities",
+   "title": "Full Stack Software Engineer Graduate Co-op",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "morse corp coop opportunities::full stack software engineer graduate coop",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "MORSE Corp Co-op Opportunities",
+   "title": "Python Software Engineer Co-op",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "morse corp coop opportunities::python software engineer coop",
    "sources": [
     "speedy"
    ],
@@ -71492,16 +71832,16 @@
   },
   {
    "company": "MORSE Corp Co-op Opportunities",
-   "title": "Full Stack Software Engineer Graduate Co-op",
+   "title": "Embedded Software Engineer Co-op",
    "locations": [
-    "Arlington, VA"
+    "Cambridge, MA"
    ],
    "url": "",
    "active": true,
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "morse corp coop opportunities::full stack software engineer graduate coop",
+   "key": "morse corp coop opportunities::embedded software engineer coop",
    "sources": [
     "speedy"
    ],
@@ -71659,6 +71999,27 @@
    "sourceCount": 1
   },
   {
+   "company": "LiveRamp",
+   "title": "Co-Op - DevOps Engineer",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "liveramp::coop devops engineer",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
    "company": "METECS",
    "title": "Summer Software Internship",
    "locations": [
@@ -71723,7 +72084,7 @@
   },
   {
    "company": "Blue Origin",
-   "title": "2026 Intern Conversion - Aerospace Software Apps Engineer I",
+   "title": "2026 Intern Conversion - Software Development Engineer I",
    "locations": [
     "Seattle, WA"
    ],
@@ -71732,7 +72093,7 @@
    "posted": null,
    "season": "",
    "source": "speedy",
-   "key": "blue origin::conversion aerospace software apps engineer i",
+   "key": "blue origin::conversion software development engineer i",
    "sources": [
     "speedy"
    ],
@@ -71785,27 +72146,6 @@
    "sourceCount": 1
   },
   {
-   "company": "Varda",
-   "title": "Flight Software Internship - Spring 2027",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "url": "",
-   "active": true,
-   "posted": null,
-   "season": "",
-   "source": "speedy",
-   "key": "varda::flight software",
-   "sources": [
-    "speedy"
-   ],
-   "watched": false,
-   "firmId": null,
-   "firmName": null,
-   "hot": null,
-   "sourceCount": 1
-  },
-  {
    "company": "Terranova",
    "title": "Software Engineering Intern",
    "locations": [
@@ -71817,6 +72157,27 @@
    "season": "",
    "source": "speedy",
    "key": "terranova::software engineering",
+   "sources": [
+    "speedy"
+   ],
+   "watched": false,
+   "firmId": null,
+   "firmName": null,
+   "hot": null,
+   "sourceCount": 1
+  },
+  {
+   "company": "Varda",
+   "title": "Flight Software Internship - Spring 2027",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "url": "",
+   "active": true,
+   "posted": null,
+   "season": "",
+   "source": "speedy",
+   "key": "varda::flight software",
    "sources": [
     "speedy"
    ],
